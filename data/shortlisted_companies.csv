@@ -1,0 +1,986 @@
+﻿Name,Slug,Email,Phone,Website,Address,Categories,Relevant Countries,Quality,Sources,Directory URL,JSON URL,Lead Score,Reason,Priority
+CleverReach GmbH & Co. KG,cleverreach,info@cleverreach.com,+49 4402 9739000,https://www.cleverreach.com/,"//CRASH Building
+Schafjückenweg 2
+26180 Rastede
+Deutschland","ads, telecommunication",all,verified,"https://www.cleverreach.com/de/datenschutz/, https://www.cleverreach.com/de/impressum/, https://github.com/datenanfragen/data/pull/1600",https://www.datarequests.org/company/cleverreach/,https://www.datarequests.org/db/cleverreach.json,26,"telecom, ads, verified, email, phone, website, global",High
+Google LLC,google,data-access-requests@google.com,+1 650 253 0000,https://www.google.com/,"1600 Amphitheatre Pkwy
+Mountain View
+CA 94043
+United States of America","ads, commerce, entertainment, finance, social media, telecommunication",all,verified,"https://policies.google.com/privacy/update, https://www.google.de/contact/impressum.html, https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI, https://www.google.de/intl/en/about/products/, https://github.com/datenanfragen/data/pull/1280, https://github.com/datenanfragen/data/pull/3314",https://www.datarequests.org/company/google/,https://www.datarequests.org/db/google.json,26,"finance, ads, verified, email, phone, website, global",High
+Cogora Group Ltd.,cogora,data@cogora.com,+44 20 7214 0500,https://www.cogora.com,"140 London Wall
+London, EC2Y 5DN
+United Kingdom","ads, health",all,verified,"https://www.cogora.com/privacy-policy/, https://github.com/datenanfragen/data/pull/1349",https://www.datarequests.org/company/cogora/,https://www.datarequests.org/db/cogora.json,26,"health, ads, verified, email, phone, website, global",High
+Huawei Technologies Co. Ltd.,huawei,mobile@huawei.com,+86 755 2878 0808,https://www.huawei.com,"Huawei Base
+Bantian
+Longgang District
+Shenzhen
+China","commerce, telecommunication, social media",all,verified,"https://www.huawei.com/en/privacy-policy, https://www.huawei.com/en/contact-us, https://www.huawei.com/de/impressum",https://www.datarequests.org/company/huawei/,https://www.datarequests.org/db/huawei.json,26,"telecom, social media, verified, email, phone, website, global",High
+TeamSpeak Systems GmbH,teamspeak,privacy@teamspeak.com,+1 877 832 6773,https://teamspeak.com/,"Soiernstraße 1
+82494 Krün
+Deutschland","telecommunication, social media",all,verified,"https://teamspeak.com/en/privacy-and-terms/, https://github.com/datenanfragen/data/issues/141",https://www.datarequests.org/company/teamspeak/,https://www.datarequests.org/db/teamspeak.json,26,"telecom, social media, verified, email, phone, website, global",High
+Aut O’Mattic A8C Ireland Ltd.,automattic,privacypolicyupdates@automattic.com,+1 877 273 3049,https://automattic.com,"Grand Canal Dock, 25 Herbert Pl
+Dublin
+D02 AY86
+Ireland","entertainment, social media, telecommunication",all,verified,"https://automattic.com/privacy/, https://www.tumblr.com/privacy/en_eu",https://www.datarequests.org/company/automattic/,https://www.datarequests.org/db/automattic.json,26,"telecom, social media, verified, email, phone, website, global",High
+Patreon Ireland Limited,patreon,privacy@patreon.com,+1 833 972 8766,https://www.patreon.com/,"Suite 3
+One Earlsfort Center
+Lower Hatch Street
+Dublin 2
+Ireland","entertainment, finance, social media",all,verified,https://privacy.patreon.com/policies,https://www.datarequests.org/company/patreon/,https://www.datarequests.org/db/patreon.json,26,"finance, social media, verified, email, phone, website, global",High
+"Neustar, Inc.",neustar,privacy@team.neustar,+44 1784 448444,https://www.home.neustar/,"c/o Neustar (UK) Ltd./MarketShare Partners EMEA Ltd.
+21 Palmer Street
+London
+SW1H 0AD
+United Kingdom","ads, commerce, credit agency, telecommunication",all,verified,"https://www.home.neustar/privacy, https://www.home.neustar/privacy/privacy-policy, https://www.home.neustar/contact-us",https://www.datarequests.org/company/neustar/,https://www.datarequests.org/db/neustar.json,26,"telecom, ads, verified, email, phone, website, global",High
+Lindner IT UG (haftungsbeschränkt),lindnerit,legal@lindnerit.io,+49 7931 5636150,https://lindnerit.io,"Holzbronn 12
+97999 Igersheim
+Deutschland","telecommunication, ads",all,verified,"https://lindnerit.io/de/privacy-policy, https://lindnerit.io/de/legal-details, https://github.com/datenanfragen/data/pull/2308",https://www.datarequests.org/company/lindnerit/,https://www.datarequests.org/db/lindnerit.json,26,"telecom, ads, verified, email, phone, website, global",High
+"Zoom Video Communications, Inc.",zoom,privacy@zoom.us,+1 888 799 9666,https://zoom.us/,"55 Almaden Blvd
+Suite 600
+San Jose
+CA 95113
+United States of America","social media, telecommunication",all,verified,https://zoom.us/privacy,https://www.datarequests.org/company/zoom/,https://www.datarequests.org/db/zoom.json,26,"telecom, social media, verified, email, phone, website, global",High
+Yahoo EMEA Limited,verizon-media,dpo-contact@yahooinc.com,+353 1 866 3100,https://yahoo.com/,"5-7 Point Square
+North Wall Quay
+Dublin 1
+Ireland","ads, entertainment, social media, telecommunication",all,verified,"https://legal.yahoo.com/ie/en/yahoo/privacy/index.html, https://www.yahooinc.com/our-brands/, https://github.com/datenanfragen/data/pull/2162",https://www.datarequests.org/company/verizon-media/,https://www.datarequests.org/db/verizon-media.json,26,"telecom, ads, verified, email, phone, website, global",High
+IServ GmbH,iserv,info@iserv.de,+49 531 3882102,https://iserv.de/,"Vossenkamp 6
+38104 Braunschweig
+Deutschland","telecommunication, social media",de,verified,"https://iserv.de/legal/privacy, https://iserv.de/legal, https://github.com/datenanfragen/data/pull/2907",https://www.datarequests.org/company/iserv/,https://www.datarequests.org/db/iserv.json,24,"telecom, social media, verified, email, phone, website",High
+CRIF GmbH,crif-at,auskunft@crif.com,+43 1 89742440,https://www.crif.at/,"Rothschildplatz 3/Top 3.06.B
+1020 Wien
+Österreich","credit agency, finance, ads",at,verified,"https://www.crif.at/datenschutzerklaerung-auskunftei-und-adressverlag/, https://www.crif.at/impressum/, https://github.com/datenanfragen/data/issues/119, https://github.com/datenanfragen/data/issues/153",https://www.datarequests.org/company/crif-at/,https://www.datarequests.org/db/crif-at.json,24,"finance, ads, verified, email, phone, website",High
+CHECK24 Vergleichsportal GmbH,check24,kundenmanagement_datenschutz@check24.de,+49 89 2000471010,https://www.check24.de/,"Erika-Mann-Str. 62 – 66
+80636 München
+Deutschland","ads, insurance, finance, commerce, telecommunication",de,verified,"https://www.check24.de/popup/datenschutz-check24-gmbh/, https://www.check24.de/unternehmen/impressum/, https://github.com/datenanfragen/data/pull/697, https://github.com/datenanfragen/data/pull/2056",https://www.datarequests.org/company/check24/,https://www.datarequests.org/db/check24.json,24,"finance, ads, verified, email, phone, website",High
+heinekingmedia GmbH,heinekingmedia,datenschutz@heinekingmedia.de,+49 511 675190,https://heinekingmedia.de/,"Hamburger Allee 2 – 4
+30161 Hannover
+Deutschland","commerce, entertainment, social media, telecommunication, ads","de, at, ch",verified,https://heinekingmedia.de/datenschutz/,https://www.datarequests.org/company/heinekingmedia/,https://www.datarequests.org/db/heinekingmedia.json,24,"telecom, ads, verified, email, phone, website",High
+Wolters Kluwer N.V.,wolterskluwer-global,,+1 877 755 1133,https://www.wolterskluwer.com,"P.O. Box 1030
+2400BA Alphen aan den Rijn
+The Netherlands","health, school, social media",all,verified,"https://www.wolterskluwer.com/en/privacy-cookies, https://www.wolterskluwer.com/en/privacy-cookies/inquiry, https://github.com/datenanfragen/data/pull/922, https://www.wolterskluwer.com/en/site-owner, https://www.wolterskluwer.com/en/privacy-cookies/california-consumer-privacy-act",https://www.datarequests.org/company/wolterskluwer-global/,https://www.datarequests.org/db/wolterskluwer-global.json,24,"health, social media, verified, phone, website, global",High
+Ewealth.cc,ewealth-cc,support@ewealth.cc,+44 20 8089 0220,https://ewealth.cc/,"c/o Advertising.R
+Obzor street
+Town of Ruse 7000
+Region Ruse
+Municipality of Ruse 10
+Bulgaria","ads, finance","gb, de, it, es",verified,"https://ewealth.cc/terms-and-conditions/, https://github.com/datenanfragen/data/pull/814, https://ewealth.cc/support-center/",https://www.datarequests.org/company/ewealth-cc/,https://www.datarequests.org/db/ewealth-cc.json,24,"finance, ads, verified, email, phone, website",High
+Italiaonline S.p.A.,italiaonline,info@italiaonline.it,+39 800 011 411,https://www.italiaonline.it/,"Corso Mortara 22
+10149 Torino TO
+Italia","telecommunication, addresses, entertainment, social media, finance, travel",it,verified,"https://www.italiaonline.it/corporate/informativa-privacy/, https://privacy.italiaonline.it/Privacy/form.privacy.php, http://privacy.italiaonline.it/common/cookie/privacy_libero.html, http://privacy.italiaonline.it/common/cookie/privacy_virgilio.html, https://www.paginegialle.it/termini-condizioni/dati_personali",https://www.datarequests.org/company/italiaonline/,https://www.datarequests.org/db/italiaonline.json,24,"finance, social media, verified, email, phone, website",High
+PAYBACK GmbH,payback,datenschutz@payback.de,+49 89 540208020,https://www.payback.de,"Theresienhöhe 12
+80339 München
+Deutschland","ads, commerce, finance",de,verified,"https://www.payback.de/info/datenschutz-paybackde, https://www.payback.de/info/impressum, https://github.com/datenanfragen/data/issues/217, https://github.com/datenanfragen/data/pull/2747, https://github.com/datenanfragen/data/pull/3804",https://www.datarequests.org/company/payback/,https://www.datarequests.org/db/payback.json,24,"finance, ads, verified, email, phone, website",High
+nhi² AG Interviews International,nhi2,ds-beauftragter@nhi2.de,+49 228 201780,https://www.nhi2.de/,"Am Metternicher Hof 15
+53111 Bonn
+Deutschland","telecommunication, ads",de,verified,"https://www.nhi2.de/datenschutz.html, https://github.com/datenanfragen/data/pull/791",https://www.datarequests.org/company/nhi2/,https://www.datarequests.org/db/nhi2.json,24,"telecom, ads, verified, email, phone, website",High
+Miles & More GmbH,miles-and-more,datenschutz@dlh.de,,https://www.miles-and-more.com,"MAC Main Airport Center
+Unterschweinstiege 8
+60549 Frankfurt/Main
+Deutschland","travel, ads, finance",all,verified,"https://www.miles-and-more.com/de/de/general-information/privacy-statement.html, https://www.miles-and-more.com/de/de/general-information/privacy-statement/privacy-statement-of-the-miles-and-more-programme.html, https://www.miles-and-more.com/de/de/general-information/privacy-statement/data-protection-policy-of-the-miles-and-more-website-app-communication-media.html, https://www.miles-and-more.com/de/de/general-information/imprint.html, https://www.miles-and-more.com/de/de/general-information/co-editor-miles-and-more.html, https://github.com/datenanfragen/data/issues/256",https://www.datarequests.org/company/miles-and-more/,https://www.datarequests.org/db/miles-and-more.json,24,"finance, ads, verified, email, website, global",High
+Ranger Marketing & Vertriebs GmbH,ranger-marketing-vertriebs-gmbh,datenschutz@ranger.de,+49 211 20008300,https://www.ranger.de/,"Parsevalstraße 11
+40468 Düsseldorf
+Deutschland","ads, telecommunication",de,verified,"https://www.ranger.de/datenschutz, https://github.com/datenanfragen/data/issues/466",https://www.datarequests.org/company/ranger-marketing-vertriebs-gmbh/,https://www.datarequests.org/db/ranger-marketing-vertriebs-gmbh.json,24,"telecom, ads, verified, email, phone, website",High
+"OpenAI, L.L.C.",openai,dsar@openai.com,,https://openai.com/,"3180 18th St
+San Francisco, CA 94110
+United States of America","social media, telecommunication",all,verified,"https://openai.com/policies/privacy-policy, https://github.com/datenanfragen/data/pull/2175",https://www.datarequests.org/company/openai/,https://www.datarequests.org/db/openai.json,24,"telecom, social media, verified, email, website, global",High
+BerlinFive GmbH,berlinfive,office@berlinfive.com,+49 30 346494900,https://berlinfive.com,"Friedrichstr. 171
+10117 Berlin
+Deutschland","ads, telecommunication",de,verified,"https://berlinfive.com/datenschutz/, https://github.com/datenanfragen/data/pull/1649",https://www.datarequests.org/company/berlinfive/,https://www.datarequests.org/db/berlinfive.json,24,"telecom, ads, verified, email, phone, website",High
+Threema GmbH,threema,privacy@threema.ch,,https://threema.ch,"Churerstrasse 82
+8808 Pfäffikon SZ
+Switzerland","telecommunication, social media",all,verified,https://threema.ch/de/privacy,https://www.datarequests.org/company/threema/,https://www.datarequests.org/db/threema.json,24,"telecom, social media, verified, email, website, global",High
+Verivox GmbH,verivox,datenschutz@verivox.de,+49 6221 7961100,https://www.verivox.de/,"Max-Jarecki-Straße 21
+69115 Heidelberg
+Deutschland","ads, finance, insurance, commerce, telecommunication",de,verified,"https://www.verivox.de/company/datenschutz/, https://www.verivox.de/company/datenschutz-finanzvergleich/, https://www.verivox.de/company/datenschutz-versicherungsvergleich/, https://www.preis24.de/, https://www.toptarif.de/, https://www.verivox.de/company/impressum/, https://github.com/datenanfragen/data/pull/1859, https://github.com/datenanfragen/data/pull/3408",https://www.datarequests.org/company/verivox/,https://www.datarequests.org/db/verivox.json,24,"finance, ads, verified, email, phone, website",High
+runtastic GmbH,runtastic,dataprotection@runtastic.com,,https://www.runtastic.com/en/privacy-policy,"Pluskaufstraße 7
+4061 Pasching bei Linz
+Austria","health, social media",all,verified,"https://github.com/datenanfragen/data/pull/1169, https://www.runtastic.com/en/privacy-policy",https://www.datarequests.org/company/runtastic/,https://www.datarequests.org/db/runtastic.json,24,"health, social media, verified, email, website, global",High
+YANDEX LLC,yandex,gdpr@yandex-team.ru,,https://yandex.com/,"5 Chilia Veche Street
+Building TD 17, 36
+061741 Bucharest
+Romania","ads, entertainment, social media, telecommunication",all,verified,"https://yandex.com/legal/confidential/?lang=en, https://yandex.com/dev/appmetrica/index/, https://github.com/datenanfragen/data/pull/3453",https://www.datarequests.org/company/yandex/,https://www.datarequests.org/db/yandex.json,24,"telecom, ads, verified, email, website, global",High
+The Rocket Science Group LLC,mailchimp,personaldatarequests@mailchimp.com,,https://mailchimp.com,"675 Ponce de Leon Ave NE
+Suite 5000
+Atlanta
+GA 30308
+United States of America","ads, telecommunication",all,verified,"https://mailchimp.com/legal/privacy/, https://github.com/datenanfragen/data/issues/653",https://www.datarequests.org/company/mailchimp/,https://www.datarequests.org/db/mailchimp.json,24,"telecom, ads, verified, email, website, global",High
+Ströer Digital Publishing GmbH,stroeer-digital-publishing,sdp-datenschutz@stroeer.de,+49 69 921017610,https://www.t-online.de,"Ströer-Allee 1
+50999 Köln
+Deutschland","ads, entertainment, telecommunication",de,verified,"https://www.t-online.de/datenschutz/, https://www.t-online.de/impressum/id_12511434/index, https://www.t-online.de/unternehmen/, https://www.stroeer.de/konvergenz-konzepte/konzept-content/plattformen-portale/stroeer-digital-publishing.html, https://github.com/datenanfragen/data/pull/1336",https://www.datarequests.org/company/stroeer-digital-publishing/,https://www.datarequests.org/db/stroeer-digital-publishing.json,24,"telecom, ads, verified, email, phone, website",High
+Appvestor ApS,calldorado,info@appvestor.com,,https://calldorado.com/,"Gladsaxevej 342
+2860 Søborg
+Denmark","ads, telecommunication",all,verified,"https://calldorado.com/terms-of-use.html, https://appvestor.com/?page_id=457",https://www.datarequests.org/company/calldorado/,https://www.datarequests.org/db/calldorado.json,24,"telecom, ads, verified, email, website, global",High
+Rocket.Chat Technologies Corp.,rocketchat,privacy@rocket.chat,,https://rocket.chat,"2711 Centerville Road
+Suite 400 Wilmington
+DE 19808
+United States of America","telecommunication, social media",all,verified,"https://rocket.chat/terms, https://rocket.chat/privacy",https://www.datarequests.org/company/rocketchat/,https://www.datarequests.org/db/rocketchat.json,24,"telecom, social media, verified, email, website, global",High
+Ada Health GmbH,ada-health,dpo@ada.com,+49 30 60031987,https://ada.com,"Karl-Liebknecht-Straße 1
+10178 Berlin
+Deutschland",health,all,verified,"https://ada.com/privacy-policy/, https://ada.com/imprint/, https://github.com/datenanfragen/data/pull/1866",https://www.datarequests.org/company/ada-health/,https://www.datarequests.org/db/ada-health.json,21,"health, verified, email, phone, website, global",High
+INGENICO,ingenico-eu,dataprivacy@ingenico.com,+33 1 58 01 91 35,https://www.ingenico.com,"13/17 Rue Pagès
+92150 Suresnes
+France",finance,all,verified,"https://ingenico.com/en/legal/privacy-policy, https://ingenico.com/en/contact, https://github.com/datenanfragen/data/pull/2338",https://www.datarequests.org/company/ingenico-eu/,https://www.datarequests.org/db/ingenico-eu.json,21,"finance, verified, email, phone, website, global",High
+INWX GmbH & Co. KG,inwx,datenschutz@inwx.de,+49 30 983212121,https://www.inwx.de,"Prinzessinnenstr. 30
+10969 Berlin
+Deutschland",telecommunication,all,verified,"https://www.inwx.de/de/aboutus/imprint, https://www.inwx.de/de/aboutus/dataprotection",https://www.datarequests.org/company/inwx/,https://www.datarequests.org/db/inwx.json,21,"telecom, verified, email, phone, website, global",High
+IONOS SE,ionos,datenschutz@ionos.de,+49 721 1705522,https://www.ionos.de,"Elgendorfer Straße 57
+56410 Montabaur
+Germany",telecommunication,all,verified,"https://www.ionos.de/impressum, https://www.ionos.de/terms-gtc/terms-privacy, https://github.com/datenanfragen/data/pull/1242",https://www.datarequests.org/company/ionos/,https://www.datarequests.org/db/ionos.json,21,"telecom, verified, email, phone, website, global",High
+Holvi Payment Services Oy,holvi,privacy@holvi.com,+358 75 3252935,https://www.holvi.com/,"Kaikukatu 2 C
+00530 Helsinki
+Finland",finance,all,verified,"https://support.holvi.com/hc/en-gb/articles/202260402-Privacy-Notice, https://support.holvi.com/hc/en-gb/articles/202271182-Imprint, https://support.holvi.com/hc/en-gb/articles/115005238365-Contact-us",https://www.datarequests.org/company/holvi/,https://www.datarequests.org/db/holvi.json,21,"finance, verified, email, phone, website, global",High
+Hostpoint AG,hostpoint,privacy@hostpoint.ch,+41 55 220 63 10,https://www.hostpoint.ch,"Neue Jonastrasse 60
+8640 Rapperswil-Jona
+Switzerland",telecommunication,all,verified,"https://www.hostpoint.ch/en/hostpoint/contact-gtc.html, https://github.com/datenanfragen/data/pull/997",https://www.datarequests.org/company/hostpoint/,https://www.datarequests.org/db/hostpoint.json,21,"telecom, verified, email, phone, website, global",High
+Fintiba GmbH,fintiba,privacy@fintiba.com,+49 69 204342620,https://www.fintiba.com,"Baseler Straße 35-37
+c/o AGOR AG
+Hanauer Landstr. 151-153
+60314 Frankfurt am Main
+Germany","finance, school",all,verified,"https://www.fintiba.com/documents/Agreement_DataProtectionNotice_Fintiba.pdf?x54750, https://github.com/datenanfragen/data/pull/1026, https://www.fintiba.com/imprint/",https://www.datarequests.org/company/fintiba/,https://www.datarequests.org/db/fintiba.json,21,"finance, verified, email, phone, website, global",High
+"GMMI, Inc.",gmmi,legal@us.generaliglobalassistance.com,+1 954 370 6404,https://www.gmmi.com,"880 SW 145th Avenue, Suite 400
+Pembroke Pines
+FL 33027
+United States of America",health,all,verified,"https://www.gmmi.com/gdpr/, https://github.com/datenanfragen/data/issues/667",https://www.datarequests.org/company/gmmi/,https://www.datarequests.org/db/gmmi.json,21,"health, verified, email, phone, website, global",High
+"Headspace, Inc.",headspace,help@headspace.com,+1 855 432 3822,https://www.headspace.com/,"425 California Street
+2nd Floor
+San Francisco
+CA 94104
+United States of America","health, entertainment",all,verified,"https://www.headspace.com/contact-us, https://github.com/datenanfragen/data/issues/566, https://www.headspace.com/privacy-policy",https://www.datarequests.org/company/headspace/,https://www.datarequests.org/db/headspace.json,21,"health, verified, email, phone, website, global",High
+European Bank for Financial Services GmbH (ebase),ebase,datenschutz-ebase@ebase.com,+49 89 45460890,https://www.ebase.com/home/,"80218 München
+Deutschland",finance,all,verified,"https://www.ebase.com/datenschutz/datenschutz-online/, https://github.com/datenanfragen/data/issues/63",https://www.datarequests.org/company/ebase/,https://www.datarequests.org/db/ebase.json,21,"finance, verified, email, phone, website, global",High
+Etsy Ireland UC,etsy,dpo@etsy.com,+353 1 513 7100,https://www.etsy.com/,"66 – 67 Great Strand Street
+Dublin 1
+Ireland","commerce, finance",all,verified,"https://www.etsy.com/legal/privacy/, https://www.etsy.com/legal/impressum",https://www.datarequests.org/company/etsy/,https://www.datarequests.org/db/etsy.json,21,"finance, verified, email, phone, website, global",High
+Cellex Cell Professionals GmbH,cellex-cell-professionals-gmbh,datenschutz@cellex.me,+49 221 4545913,https://www.cellex.me/,"Im Mediapark 6B
+50670 Köln
+Deutschland",health,all,verified,https://www.cellex.me/de/datenschutz-impressum,https://www.datarequests.org/company/cellex-cell-professionals-gmbh/,https://www.datarequests.org/db/cellex-cell-professionals-gmbh.json,21,"health, verified, email, phone, website, global",High
+Upwork Global Inc.,upwork,privacyrequests@upwork.com,+1 650 316 7500,https://www.upwork.com/,"655 Montgomery Street Suite 490
+DPT 17022
+San Francisco, CA 94111-2676
+United States of America",finance,all,verified,"https://www.upwork.com/legal#privacy, https://github.com/datenanfragen/data/pull/1590",https://www.datarequests.org/company/upwork/,https://www.datarequests.org/db/upwork.json,21,"finance, verified, email, phone, website, global",High
+Enom Inc.,enom,privacy@enom.com,+1 425 974 4689,https://www.enom.com/,"10400 NE 4th Street
+Floor 5, Suite 121
+Bellevue WA 98004
+United States of America",telecommunication,all,verified,https://www.enom.com/terms/privacy.aspx,https://www.datarequests.org/company/enom/,https://www.datarequests.org/db/enom.json,21,"telecom, verified, email, phone, website, global",High
+dogado GmbH,dogado,datenschutz@dogado.de,+49 231 2866200,https://www.dogado.de,"c/o alfahosting GmbH
+Ankerstraße 3b
+06108 Halle (Saale)
+Germany",telecommunication,all,verified,"https://www.dogado.de/legal/impressum, https://www.dogado.de/legal/datenschutz, https://github.com/datenanfragen/data/pull/1243",https://www.datarequests.org/company/dogado/,https://www.datarequests.org/db/dogado.json,21,"telecom, verified, email, phone, website, global",High
+Fairphone B.V.,fairphone,privacy@fairphone.com,+31 20 788 4400,https://www.fairphone.com/,"Jollemanhof 17
+1019 GW Amsterdam
+The Netherlands","telecommunication, commerce",all,verified,"https://www.fairphone.com/en/legal/fairphone-privacy-policy/, https://www.fairphone.com/en/legal/impressum/?ref=footer, https://github.com/datenanfragen/data/pull/932",https://www.datarequests.org/company/fairphone/,https://www.datarequests.org/db/fairphone.json,21,"telecom, verified, email, phone, website, global",High
+Dynadot LLC,dynadot,DataProtectionOfficer@dynadot.com,+1 866 262 3399,https://www.dynadot.com/,"PO Box 345
+San Mateo
+CA 94401-0345
+United States of America",telecommunication,all,verified,"https://www.dynadot.com/terms-of-use.html, https://www.bbb.org/greater-san-francisco/business-reviews/web-hosting/dynadot-llc-in-san-mateo-ca-119068",https://www.datarequests.org/company/dynadot/,https://www.datarequests.org/db/dynadot.json,21,"telecom, verified, email, phone, website, global",High
+"Vitalwerks Internet Solutions, LLC d/b/a No-IP",noip,privacy@noip.com,+1 775 853 1883,https://www.noip.com,"425 Maestro Dr.
+Second Floor
+Reno
+NV 89511
+United States of America",telecommunication,all,verified,"https://www.noip.com/legal/privacy, https://www.noip.com/legal/tos, https://www.noip.com/contact",https://www.datarequests.org/company/noip/,https://www.datarequests.org/db/noip.json,21,"telecom, verified, email, phone, website, global",High
+Wirecard AG,wirecard,data.privacy@wirecard.com,+49 89 44241200,https://www.wirecard.com/,"Einsteinring 35
+85609 Aschheim
+Germany",finance,all,verified,"https://www.wirecard.com/datenschutzbestimmungen/, https://www.wirecard.com/impressum/",https://www.datarequests.org/company/wirecard/,https://www.datarequests.org/db/wirecard.json,21,"finance, verified, email, phone, website, global",High
+ZuluTrade,zulutrade,support@zulutrade.com,+30 21 3017 6300,https://www.zulutrade.com,"Akti Kondili 14
+Piraeus 185 45
+Greece",finance,all,verified,"https://github.com/datenanfragen/data/issues/419, https://www.zulutrade.com/privacy-policy",https://www.datarequests.org/company/zulutrade/,https://www.datarequests.org/db/zulutrade.json,21,"finance, verified, email, phone, website, global",High
+"Accelevents, Inc.",accelevents,privacy@accelevents.com,+1 857 254 8035,https://accelevents.com,"10 Post Office Square
+Suite 800 South
+Boston, MA 02109
+United States of America",telecommunication,all,verified,"https://www.accelevents.com/privacy-policy/, https://github.com/datenanfragen/data/pull/1278",https://www.datarequests.org/company/accelevents/,https://www.datarequests.org/db/accelevents.json,21,"telecom, verified, email, phone, website, global",High
+Wix.com Luxembourg S.a.r.l,wix,privacy@wix.com,+1 415 639 9034,https://www.wix.com/,"5, rue Guillaume Kroll
+L-1882 Luxembourg
+Luxembourg",telecommunication,all,verified,"https://de.wix.com/about/privacy, http://de.wix.com/about/impressum-wix",https://www.datarequests.org/company/wix/,https://www.datarequests.org/db/wix.json,21,"telecom, verified, email, phone, website, global",High
+"Wildbit, LLC",wildbit,privacy@wildbit.com,+1 215 203 0488,https://wildbit.com,"2400 Market Street
+No. 200, Suite 235B
+Philadelphia PA 19103
+United States of America",telecommunication,all,verified,https://wildbit.com/privacy-policy,https://www.datarequests.org/company/wildbit/,https://www.datarequests.org/db/wildbit.json,21,"telecom, verified, email, phone, website, global",High
+MeetApp International AB,ventla,dataprivacy@ventla.io,+46 8 83 18 44,https://www.ventla.io/,"Kungsgatan 60
+111 22 Stockholm
+Sweden",telecommunication,all,verified,"https://www.ventla.io/blog/rebrand-meetapp-is-now-ventla, https://www.ventla.io/legal/privacy-policy, https://github.com/datenanfragen/data/pull/1752",https://www.datarequests.org/company/ventla/,https://www.datarequests.org/db/ventla.json,21,"telecom, verified, email, phone, website, global",High
+LenderMarket Limited,lendermarket,dpo@lendermarket.com,+353 1 691 7618,https://www.lendermarket.com/,"77 Sir John Rogerson’s Quay
+Block C
+Grand Canal Docklands
+Dublin 2
+D02 VK60
+Ireland",finance,all,verified,"https://www.lendermarket.com/privacy-policy, https://github.com/datenanfragen/data/pull/1595",https://www.datarequests.org/company/lendermarket/,https://www.datarequests.org/db/lendermarket.json,21,"finance, verified, email, phone, website, global",High
+BioNTech SE,biontech,data.privacy@biontech.de,+49 6131 90841030,https://biontech.de,"An der Goldgrube 12
+55131 Mainz
+Deutschland",health,all,verified,"https://biontech.de/data-privacy-policy, https://github.com/datenanfragen/data/pull/833",https://www.datarequests.org/company/biontech/,https://www.datarequests.org/db/biontech.json,21,"health, verified, email, phone, website, global",High
+Mastercard Europe SA,mastercard-eu,privacyanddataprotection@mastercard.com,+32 2 352 51 11,https://www.mastercard.de,"Chaussée de Tervuren 198A
+1410 Waterloo
+Belgium",finance,all,verified,"https://www.mastercard.de/de-de/datenschutz.html, https://www.mastercard.de/de-de/datenschutz/impressum.html, https://github.com/datenanfragen/data/pull/3000",https://www.datarequests.org/company/mastercard-eu/,https://www.datarequests.org/db/mastercard-eu.json,21,"finance, verified, email, phone, website, global",High
+Mollie B.V.,mollie,dpo@mollie.com,+31 20 820 2070,https://www.mollie.com,"Keizersgracht 313
+1016 EE Amsterdam
+The Netherlands",finance,all,verified,"https://www.mollie.com/en/privacy, https://www.mollie.com/de/impressum",https://www.datarequests.org/company/mollie/,https://www.datarequests.org/db/mollie.json,21,"finance, verified, email, phone, website, global",High
+Boerse Stuttgart GmbH,boerse-stuttgart,dsb@boerse-stuttgart.de,+49 711 2229850,https://www.boerse-stuttgart.de,"Börsenstraße 4
+70174 Stuttgart
+Germany",finance,all,verified,"https://www.boerse-stuttgart.de/de-de/legal/allgemeiner-datenschutzhinweis/, https://www.anlegerclub.de/datenschutz.html, https://github.com/datenanfragen/data/pull/1875",https://www.datarequests.org/company/boerse-stuttgart/,https://www.datarequests.org/db/boerse-stuttgart.json,21,"finance, verified, email, phone, website, global",High
+Midas Software GmbH,ayondo,midas@ayondo.one,+49 69 999994150,https://www.ayondo.com,"Passauer Straße 5
+94161 Ruderting
+Deutschland",finance,all,verified,https://www.ayondo.com/impressum-de.html,https://www.datarequests.org/company/ayondo/,https://www.datarequests.org/db/ayondo.json,21,"finance, verified, email, phone, website, global",High
+VIACTIV Krankenkasse,viactiv,datenschutz@viactiv.de,+49 234 4792799,https://www.viactiv.de/,"Suttner-Nobel-Allee 3-5
+44803 Bochum
+Deutschland",health,all,verified,"https://www.viactiv.de/datenschutz, https://github.com/datenanfragen/data/pull/3085",https://www.datarequests.org/company/viactiv/,https://www.datarequests.org/db/viactiv.json,21,"health, verified, email, phone, website, global",High
+LGT Group Holding Ltd.,lgt-bank,lgt.datenschutz@lgt.com,+423 235 11 22,https://www.lgt.li/,"Herrengasse 12
+9490 Vaduz
+Liechtenstein",finance,all,verified,https://www.lgt.com/global-en/data-privacy-notice,https://www.datarequests.org/company/lgt-bank/,https://www.datarequests.org/db/lgt-bank.json,21,"finance, verified, email, phone, website, global",High
+Jimdo GmbH,jimdo,datenschutz@jimdo.com,+49 40 82244997,https://jimdo.com/,"Stresemannstraße 375
+22761 Hamburg
+Deutschland",telecommunication,all,verified,"https://de.jimdo.com/info/datenschutzerklaerung/, https://de.jimdo.com/impressum/, https://www.jimdo.com/info/privacy/",https://www.datarequests.org/company/jimdo/,https://www.datarequests.org/db/jimdo.json,21,"telecom, verified, email, phone, website, global",High
+rapidmail GmbH,rapidmail,datenschutz@rapidmail.de,+49 2505 639797,https://www.rapidmail.de/,"c/o Keyed GmbH
+Siemensstraße 12
+48341 Altenberge, Westfalen
+Germany",telecommunication,all,verified,"https://www.rapidmail.de/datenschutz, https://www.rapidmail.de/impressum",https://www.datarequests.org/company/rapidmail/,https://www.datarequests.org/db/rapidmail.json,21,"telecom, verified, email, phone, website, global",High
+B-one FZ-LLC,one-com,support@de.one.com,+49 201 48793511,https://www.one.com,"PO Box 500401
+Dubai
+United Arab Emirates",telecommunication,all,verified,"https://www.one.com/de/info/datenschutzrichtlinie, https://www.one.com/de/info/impressum",https://www.datarequests.org/company/one-com/,https://www.datarequests.org/db/one-com.json,21,"telecom, verified, email, phone, website, global",High
+Phoenix Payments BV,anycoin-direct,privacy@anycoindirect.eu,+31 413 747 174,https://anycoindirect.eu,"Marshallweg 5
+5466 AH Veghel
+Nederland",finance,all,verified,"https://anycoindirect.eu/en/privacy, https://github.com/datenanfragen/data/pull/1893",https://www.datarequests.org/company/anycoin-direct/,https://www.datarequests.org/db/anycoin-direct.json,21,"finance, verified, email, phone, website, global",High
+PRADEO Security Systems SAS,pradeo,dataprivacy@pradeo.com,+33 4 67 20 99 11,https://pradeo.com/,"71 Place Vauban
+34000 Montpellier
+France",telecommunication,all,verified,"https://pradeo.com/wp-content/uploads/2023/10/Personal-data-protection-policy-www.pradeo.com_.pdf, https://github.com/datenanfragen/data/pull/1863",https://www.datarequests.org/company/pradeo/,https://www.datarequests.org/db/pradeo.json,21,"telecom, verified, email, phone, website, global",High
+"Private Internet Access, Incorporated",private-internet-access,privacy@privateinternetaccess.com,+1 347 586 9467 ext. 904,https://www.privateinternetaccess.com/,"5555 DTC Parkway
+Suite 360
+Greenwood Village
+CO 80111
+United States of America",telecommunication,all,verified,"https://www.privateinternetaccess.com/pages/privacy-policy/, https://github.com/datenanfragen/data/issues/479",https://www.datarequests.org/company/private-internet-access/,https://www.datarequests.org/db/private-internet-access.json,21,"telecom, verified, email, phone, website, global",High
+Prisma Global Ltd.,marketscube,support@marketscube.email,+353 1 437 8872,https://www.marketscube.com/,"Ajeltake Road
+Ajeltake Island
+Majuro
+MH96960
+Marshall Islands",finance,all,verified,"https://www.fca.org.uk/news/warnings/markets-cube, https://github.com/datenanfragen/data/issues/650, https://www.marketscube.com/privacy-policy, https://www.marketscube.com/contact-us",https://www.datarequests.org/company/marketscube/,https://www.datarequests.org/db/marketscube.json,21,"finance, verified, email, phone, website, global",High
+Unwired Networks GmbH,unwirednetworks,privacy@unwired.at,+43 1 9962051,https://unwirednetworks.net,"Gonzagagasse 11/25
+1010 Wien
+Austria","telecommunication, travel",all,verified,"https://unwirednetworks.net/service/datenschutz/, https://github.com/datenanfragen/data/pull/891",https://www.datarequests.org/company/unwirednetworks/,https://www.datarequests.org/db/unwirednetworks.json,21,"telecom, verified, email, phone, website, global",High
+Akenes SA,exoscale,privacy@exoscale.com,+41 58 255 00 66,https://www.exoscale.com/,"Boulevard de Grancy 19A
+1006 – Lausanne
+Switzerland",telecommunication,all,verified,"https://www.exoscale.com/privacy/, https://www.exoscale.com/contact/",https://www.datarequests.org/company/exoscale/,https://www.datarequests.org/db/exoscale.json,21,"telecom, verified, email, phone, website, global",High
+Trading 212 Ltd,trading212,dpo@trading212.com,+359 800 46 049,https://trading212.com,"3 Lachezar Stanchev Str.
+Litex Tower, floor 10
+Sofia 1797
+Bulgaria",finance,all,verified,"https://www.trading212.com/legal-documentation/privacy-policy-cy, https://github.com/datenanfragen/data/pull/1586",https://www.datarequests.org/company/trading212/,https://www.datarequests.org/db/trading212.json,21,"finance, verified, email, phone, website, global",High
+Payoneer EU Limited,payoneer,DPO@payoneer.com,+1 646 658 3695,https://www.payoneer.com/,"57/63 Line Wall Road
+Gibraltar",finance,all,verified,"https://github.com/datenanfragen/data/issues/519, https://www.payoneer.com/legal/privacy-policy/",https://www.datarequests.org/company/payoneer/,https://www.datarequests.org/db/payoneer.json,21,"finance, verified, email, phone, website, global",High
+SMTP2GO,smtp2go,ticket@smtp2go.com,+64 3 668 5138,https://www.smtp2go.com/,"c/o Sand Dune Mail Ltd
+96-106 Manchester Street
+Christchurch 8011
+New Zealand",telecommunication,all,verified,"https://www.smtp2go.com/privacy/, https://www.smtp2go.com/contact/",https://www.datarequests.org/company/smtp2go/,https://www.datarequests.org/db/smtp2go.json,21,"telecom, verified, email, phone, website, global",High
+Runalyze GmbH,runalyze,support@runalyze.com,+49 1514 2011855,https://runalyze.com,"Hochstraße 11
+67700 Niederkirchen
+Germany",health,all,verified,"https://runalyze.com/en/legal/notice, https://runalyze.com/en/legal/privacy, https://github.com/datenanfragen/data/pull/2638",https://www.datarequests.org/company/runalyze/,https://www.datarequests.org/db/runalyze.json,21,"health, verified, email, phone, website, global",High
+TeamViewer Germany GmbH,teamviewer,privacy@teamviewer.com,+49 7161 6069250,https://www.teamviewer.com,"Bahnhofsplatz 2
+73033 Göppingen
+Germany",telecommunication,all,verified,"https://www.teamviewer.com/de/datenschutzerklaerung, https://github.com/datenanfragen/data/pull/977, https://www.teamviewer.com/de/impressum/",https://www.datarequests.org/company/teamviewer/,https://www.datarequests.org/db/teamviewer.json,21,"telecom, verified, email, phone, website, global",High
+Twilio Ireland Limited,twilio,privacy@twilio.com,+49 89 143777310,https://www.twilio.com,"25 – 28 North Wall Quay
+North Wall
+Dublin 1
+D01 H104
+Ireland",telecommunication,all,verified,"https://www.twilio.com/legal/privacy, https://github.com/datenanfragen/data/issues/671",https://www.datarequests.org/company/twilio/,https://www.datarequests.org/db/twilio.json,21,"telecom, verified, email, phone, website, global",High
+AVAST Software s.r.o,avast,dpo@avast.com,,https://www.avast.com/,"Pikrtova 1737/1a
+140 00 Prag 4
+Czech Republic","ads, telecommunication, commerce",all,tested,"https://www.avast.com/de-de/privacy-policy, https://www.avast.com/en-gb/privacy-policy, https://github.com/datenanfragen/data/issues/133, https://www.avg.com/en-ww/privacy",https://www.datarequests.org/company/avast/,https://www.datarequests.org/db/avast.json,21,"telecom, ads, email, website, global",High
+"Salesforce.com, Inc.",salesforce,privacy@salesforce.com,+1 844 287 7147,https://www.salesforce.com/,"415 Mission St
+3rd Floor
+San Francisco CA 94105
+United States of America",telecommunication,all,verified,"https://www.salesforce.com/company/privacy/, https://www.salesforce.com/company/privacy/full_privacy/, https://www.tableau.com/privacy, https://quip.com/about/privacy, https://github.com/datenanfragen/data/issues/22, https://github.com/datenanfragen/data/issues/26",https://www.datarequests.org/company/salesforce/,https://www.datarequests.org/db/salesforce.json,21,"telecom, verified, email, phone, website, global",High
+Solaris SE,solarisbank,privacy@solarisgroup.com,+49 30 83797775,https://www.solarisgroup.com,"Cuvrystraße 53
+10997 Berlin
+Deutschland",finance,all,verified,"https://www.solarisgroup.com/de/privacy-policy/, https://www.solarisgroup.com/de/imprint, https://github.com/datenanfragen/data/pull/1916, https://github.com/datenanfragen/data/pull/2192",https://www.datarequests.org/company/solarisbank/,https://www.datarequests.org/db/solarisbank.json,21,"finance, verified, email, phone, website, global",High
+AS Mintos Marketplace,mintos,dpo@mintos.com,+371 20 325 607,https://www.mintos.com/,"Skanstes iela 50
+Riga
+LV-1013
+Latvia",finance,all,verified,"https://www.mintos.com/en/privacy-policy/, https://github.com/datenanfragen/data/pull/1596",https://www.datarequests.org/company/mintos/,https://www.datarequests.org/db/mintos.json,21,"finance, verified, email, phone, website, global",High
+Associated Newspapers Ltd.,dailymail,dataprotection@dmgmedia.co.uk,+44 330 100 0601,https://www.dailymail.co.uk,"Northcliffe House
+9 Derry Street
+London
+W8 5HY
+United Kingdom","entertainment, travel, finance, insurance",all,verified,"https://www.dailymail.co.uk/privacy, https://www.mymailaccount.co.uk/pages/mymail/privacyAndCookiesPolicy, https://metro.co.uk/privacypolicy/, https://www.mailtravel.co.uk/privacy-policy-and-cookies, https://www.mailfinance.co.uk/about/privacy-policy/, https://www.thisismoney.co.uk/home/article-1388040/Privacy-Policy-Cookies.html, https://www.dmgmedia.co.uk/privacy-cookies-policy/, https://www.dmgmedia.co.uk/contact/",https://www.datarequests.org/company/dailymail/,https://www.datarequests.org/db/dailymail.json,21,"finance, verified, email, phone, website, global",High
+Space Exploration Technologies Corp.,starlink-germany-gmbh,privacy@spacex.com,+420 228 881 031,https://starlink.com,"c/o VeraSafe Ireland Ltd.
+Unit 3D North Point House
+North Point Business Park
+New Mallow Road
+Cork
+T23AT2P
+Ireland",telecommunication,all,verified,"https://starlink.com/legal/documents/DOC-1009-83220-61, https://github.com/datenanfragen/data/pull/838",https://www.datarequests.org/company/starlink-germany-gmbh/,https://www.datarequests.org/db/starlink-germany-gmbh.json,21,"telecom, verified, email, phone, website, global",High
+SEBA Bank AG,seba-swiss,dataprotection@seba.swiss,+41 41 552 43 00,https://www.seba.swiss,"Kolinplatz 15
+6300 Zug
+Switzerland",finance,all,verified,"https://www.seba.swiss/privacy-policy, https://www.seba.swiss/contact/, https://github.com/datenanfragen/data/pull/2001",https://www.datarequests.org/company/seba-swiss/,https://www.datarequests.org/db/seba-swiss.json,21,"finance, verified, email, phone, website, global",High
+Sedo GmbH,sedo-de,datenschutz@sedo.de,+49 221 34030571,https://sedo.de,"Im Mediapark 6 B
+50670 Köln
+Deutschland",telecommunication,all,verified,"https://sedo.com/de/ueber-uns/policies-gmbh/datenschutzrichtlinien-der-sedo-gmbh/, https://sedo.com/de/ueber-uns/impressum/, https://github.com/datenanfragen/data/pull/2374",https://www.datarequests.org/company/sedo-de/,https://www.datarequests.org/db/sedo-de.json,21,"telecom, verified, email, phone, website, global",High
+Sift Science Ireland Limited,sift-com,privacy@sift.com,+1 571 366 1784,https://sift.com,"c/o Sift Science, Inc.
+525 Market Street
+Sixth Floor
+San Francisco, CA 94105
+United States of America","commerce, finance",all,verified,"https://github.com/datenanfragen/data/issues/375, https://sift.com/service-privacy/, https://www.achievedcompliance.com/contact/",https://www.datarequests.org/company/sift-com/,https://www.datarequests.org/db/sift-com.json,21,"finance, verified, email, phone, website, global",High
+Team Centric Software GmbH & Co. KG,webmart,webmaster@webmart.de,+49 89 215581319,https://www.webmart.de,"Averhoffstraße 17
+22085 Hamburg
+Germany",telecommunication,all,verified,"https://www.webmart.de/web/privacy, https://github.com/datenanfragen/data/pull/1252",https://www.datarequests.org/company/webmart/,https://www.datarequests.org/db/webmart.json,21,"telecom, verified, email, phone, website, global",High
+"The Retail Equation, Inc.",theretailequation-com,privacy@theretailequation.com,+1 888 588 0671,https://www.theretailequation.com,"220 Progress
+Suite 175
+Irvine, CA 92618
+United States of America",finance,all,verified,https://www.theretailequation.com/privacy-policies/,https://www.datarequests.org/company/theretailequation-com/,https://www.datarequests.org/db/theretailequation-com.json,21,"finance, verified, email, phone, website, global",High
+Thomson Reuters (Professional) UK Ltd.,thomsonreuters,privacy.enquiries@tr.com,+44 20 7250 1122,https://reuters.com,"30 South Colonnade-Canary Wharf
+London
+E14 5EP
+United Kingdom","entertainment, finance",all,verified,"https://www.thomsonreuters.com/en/privacy-statement.html, https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/fact-sheets/thomson-reuters-as-a-controller-of-personal-information-product-list.pdf, https://www.thomsonreuters.com/en/contact-us.html",https://www.datarequests.org/company/thomsonreuters/,https://www.datarequests.org/db/thomsonreuters.json,21,"finance, verified, email, phone, website, global",High
+Sygnum Bank AG,sygnum,dpo@sygnum.com,+41 58 508 20 00,https://www.sygnum.com/,"Uetlibergstrasse 134a
+8045 Zurich
+Switzerland",finance,all,verified,"https://www.sygnum.com/more/privacy-policy/, https://github.com/datenanfragen/data/pull/2002",https://www.datarequests.org/company/sygnum/,https://www.datarequests.org/db/sygnum.json,21,"finance, verified, email, phone, website, global",High
+The Infrastructure Company GmbH,tinc,datenschutz@tinc.gmbh,+49 2154 9304600,https://tinc.gmbh,"Parkstrasse 42
+47877 Willich
+Deutschland",telecommunication,all,verified,"https://tinc.gmbh/?datenschutz, https://servercow.de/impressum, https://github.com/datenanfragen/data/pull/1700",https://www.datarequests.org/company/tinc/,https://www.datarequests.org/db/tinc.json,21,"telecom, verified, email, phone, website, global",High
+"DECENTRALIZED GLOBAL PAYMENTS, S.L.",verse,dpo@verse.me,+34 931 22 41 75,https://verse.me,"Plaza de Catalunya, 21
+08002 Barcelona
+Spain",finance,all,verified,"https://verse.me/en/privacy, https://github.com/datenanfragen/data/issues/446",https://www.datarequests.org/company/verse/,https://www.datarequests.org/db/verse.json,21,"finance, verified, email, phone, website, global",High
+DENIC eG,denic,privacy@denic.de,+49 69 272350,https://www.denic.de/,"Theodor-Stern-Kai 1
+60596 Frankfurt am Main
+Deutschland",telecommunication,all,verified,"https://www.denic.de/ueber-denic/datenschutzerklaerung/?disableOptIn=1, https://www.denic.de/ueber-denic/impressum/",https://www.datarequests.org/company/denic/,https://www.datarequests.org/db/denic.json,21,"telecom, verified, email, phone, website, global",High
+Wordline,worldline,dataprotection@worldline.com,+33 1 73 26 00 00,https://worldline.com,"River Ouest 80
+Quai Voltaire
+95870 Bezons
+France",finance,all,verified,"https://de.worldline.com/de/privacy.html, https://de.worldline.com/de/home/impressum.html, https://investors.worldline.com/content/investors-worldline-com/en/home/governance.html",https://www.datarequests.org/company/worldline/,https://www.datarequests.org/db/worldline.json,21,"finance, verified, email, phone, website, global",High
+DBRS Morningstar,dbrs-morningstar,privacy@dbrsmorningstar.com,+1 416 593 5577,https://www.dbrs.com/,"DBRS Tower
+181 University Avenue
+Suite 700
+Toronto
+ON M5H 3M7
+Canada",finance,all,verified,"https://www.dbrs.com/about/, https://www.dbrs.com/contact/, https://www.dbrsmorningstar.com/privacy-policy/",https://www.datarequests.org/company/dbrs-morningstar/,https://www.datarequests.org/db/dbrs-morningstar.json,21,"finance, verified, email, phone, website, global",High
+CyberHealth GmbH,cyberhealth-gmbh,niederjohann@gmail.com,+49 214 73487705,https://www.cyberpraevention.de/,"Dieckstr. 71-75
+48145 Münster
+Deutschland",health,de,verified,"https://www.cyberpraevention.de/datenschutz/, https://github.com/datenanfragen/data/pull/2244",https://www.datarequests.org/company/cyberhealth-gmbh/,https://www.datarequests.org/db/cyberhealth-gmbh.json,19,"health, verified, email, phone, website",High
+Zurich Deutscher Herold Lebensversicherung AG,zurich-versicherung,datenschutz@zurich.com,+49 69 71150,https://www.zurich.de,"53096 Bonn
+Deutschland",insurance,de,verified,"https://www.zurich.de/de-de/ueber-uns/unternehmen/werte-und-verantwortung/datenschutz, https://www.zurich.de/_/media/dbe/germany/docs/ueber-uns/unternehmen/170906-verfvz-zdhl.pdf?la=de-de&hash=94C7BAC39EDB4A33D9872476FB55816B8928FE1F, https://www.zurich.de/de-de/services/impressum",https://www.datarequests.org/company/zurich-versicherung/,https://www.datarequests.org/db/zurich-versicherung.json,19,"insurance, verified, email, phone, website",High
+:data factory GmbH,data-factory,info@data-factory.net,+49 8431 647390,https://data-factory.net/,"Dr.-Karl-Lexer-Weg B300
+86633 Neuburg
+Deutschland",telecommunication,de,verified,"https://data-factory.net/impressum, https://github.com/datenanfragen/data/pull/2437",https://www.datarequests.org/company/data-factory/,https://www.datarequests.org/db/data-factory.json,19,"telecom, verified, email, phone, website",High
+1&1 Internet SE,1und1,datenschutz@1und1.de,+49 721 9600,https://www.1und1.de/,"Elgendorfer Straße 57
+56410 Montabaur
+Deutschland","telecommunication, commerce","de, at, it",verified,"https://www.1und1.de/DatenschutzTelecomGmbH, https://hosting.1und1.de/terms-gtc/terms-privacy/, https://unternehmen.1und1.de/impressum/, https://www.1und1.at/, https://www.1and1.it/terms-gtc/fileadmin/Terms/PDF_IT/2018_01_IT_Privacy_MD.pdf, https://github.com/datenanfragen/data/issues/485",https://www.datarequests.org/company/1und1/,https://www.datarequests.org/db/1und1.json,19,"telecom, verified, email, phone, website",High
+"Zello, Inc.",zello,privacy@zello.com,,https://zello.com/,"1317 W 6th
+Austin
+TX 78703
+United States of America",telecommunication,all,verified,"https://zello.com/privacy/, https://github.com/datenanfragen/data/issues/396, https://www.builtinaustin.com/company/zello-inc",https://www.datarequests.org/company/zello/,https://www.datarequests.org/db/zello.json,19,"telecom, verified, email, website, global",High
+Zahnärztinnen Dr. A. Weihrauch & Dr. G. Weihrauch,weirauch-org,mail@aweirauch.de,+49 911 226408,https://www.weirauch.org,"Hallplatz 5
+90402 Nürnberg
+Deutschland",health,de,verified,"https://www.weirauch.org/impressum.html, https://github.com/datenanfragen/data/pull/1637",https://www.datarequests.org/company/weirauch-org/,https://www.datarequests.org/db/weirauch-org.json,19,"health, verified, email, phone, website",High
+ABZ Zahnärztliches Rechenzentrum für Bayern GmbH,abz-zr,datenschutz@abz-zr.de,+49 8142 65206,https://www.abz-zr.de/,"Oppelner Straße 3
+82194 Gröbenzell
+Deutschland",health,de,verified,"https://www.abz-zr.de/datenschutz, https://www.abz-zr.de/impressum, https://github.com/datenanfragen/data/pull/2204",https://www.datarequests.org/company/abz-zr/,https://www.datarequests.org/db/abz-zr.json,19,"health, verified, email, phone, website",High
+X4d Media,mein-zuhause-im-alter,info@mein-zuhause-im-alter.de,+49 800 7772346,https://www.mein-zuhause-im-alter.de/,"Feldbergstr. 31
+61449 Steinbach
+Deutschland","health, commerce",de,verified,"https://www.mein-zuhause-im-alter.de/impressum, https://github.com/datenanfragen/data/pull/2610",https://www.datarequests.org/company/mein-zuhause-im-alter/,https://www.datarequests.org/db/mein-zuhause-im-alter.json,19,"health, verified, email, phone, website",High
+Wüstenrot & Württembergische AG,ww-ag-com,dsb@ww-ag.com,+49 7141 160,https://www.ww-ag.com,"Wüstenrotstraße 1
+71638 Ludwigsburg
+Deutschland",finance,de,verified,"https://www.wuestenrot.de/de/datenschutz.html, https://www.ww-ag.com/de/datenschutz.html",https://www.datarequests.org/company/ww-ag-com/,https://www.datarequests.org/db/ww-ag-com.json,19,"finance, verified, email, phone, website",High
+wallstreet:online capital AG,smartbroker,datenschutzbeauftragter@wo-capital.de,+49 30 275776200,https://smartbroker.de/,"Michaelkirchstr. 17/18
+10179 Berlin
+Deutschland","finance, commerce",de,verified,"https://smartbroker.de/datenschutz.php, https://smartbroker.de/impressum.php, https://github.com/datenanfragen/data/pull/983",https://www.datarequests.org/company/smartbroker/,https://www.datarequests.org/db/smartbroker.json,19,"finance, verified, email, phone, website",High
+WEB.DE,1und1-webde,datenschutz@webde.de,+49 721 9609740,https://web.de/,"c/o 1&1 Mail & Media GmbH
+Elgendorfer Straße 57
+56410 Montabaur
+Deutschland",telecommunication,de,verified,"https://agb-server.web.de/datenschutz, https://web.de/impressum/, https://produkte.web.de, https://github.com/datenanfragen/data/pull/1339",https://www.datarequests.org/company/1und1-webde/,https://www.datarequests.org/db/1und1-webde.json,19,"telecom, verified, email, phone, website",High
+WeCare Services GmbH,schnelltestberlin,kraska@dr-kraska.de,+49 30 28599654,https://schnelltestberlin.de/,"Auguststraße 20
+10117 Berlin
+Deutschland",health,de,verified,"https://schnelltestberlin.de/datenschutzerklaerung/, https://github.com/datenanfragen/data/pull/1952",https://www.datarequests.org/company/schnelltestberlin/,https://www.datarequests.org/db/schnelltestberlin.json,19,"health, verified, email, phone, website",High
+Weltsparen,weltsparen,datenschutz@weltsparen.de,+49 30 21784002,https://www.weltsparen.de/,"c/o Raisin GmbH
+Schlesische Straße 33/34
+10997 Berlin
+Deutschland",finance,"de, at",verified,"https://www.weltsparen.de/datenschutz/, https://www.weltsparen.at/datenschutz/, https://github.com/datenanfragen/data/pull/2574",https://www.datarequests.org/company/weltsparen/,https://www.datarequests.org/db/weltsparen.json,19,"finance, verified, email, phone, website",High
+Deutsche Telekom AG,deutsche-telekom-ag,datenschutz@telekom.de,+49 228 1810,https://www.telekom.com,"Friedrich-Ebert-Allee 140
+53113 Bonn
+Deutschland",telecommunication,de,verified,"https://www.telekom.com/de/telekom/datenschutzhinweis-1808, https://github.com/datenanfragen/data/pull/3363",https://www.datarequests.org/company/deutsche-telekom-ag/,https://www.datarequests.org/db/deutsche-telekom-ag.json,19,"telecom, verified, email, phone, website",High
+Deutsche Rentenversicherung Nord,deutsche-rentenversicherung-nord,datenschutz@drv-nord.de,+49 40 530010170,https://drv-nord.de,"Friedrich-Ebert-Damm 245
+22159 Hamburg
+Deutschland","health, insurance",de,verified,"https://www.deutsche-rentenversicherung.de/Nord/DE/Service/Footer/Datenschutz/datenschutz_node.html, https://github.com/datenanfragen/data/pull/1303",https://www.datarequests.org/company/deutsche-rentenversicherung-nord/,https://www.datarequests.org/db/deutsche-rentenversicherung-nord.json,19,"insurance, verified, email, phone, website",High
+Deutsche Postbank AG,postbank,direkt@postbank.de,+49 228 9200,https://www.postbank.de,"Friedrich-Ebert-Allee 114 – 126
+53113 Bonn
+Deutschland",finance,de,verified,"https://www.postbank.de/postbank/wu_datenschutz.html, https://www.postbank.de/postbank/wu_impressum.html",https://www.datarequests.org/company/postbank/,https://www.datarequests.org/db/postbank.json,19,"finance, verified, email, phone, website",High
+Deutsche Lebens-Rettungs-Gesellschaft (DLRG),dlrg-de,hilde.oberlehberg@bgst.dlrg.de,+49 5723 955443,https://www.dlrg.de,"Im Niedernfeld 1-3
+31542 Bad Nenndorf
+Deutschland","nonprofit, health",de,verified,"https://www.dlrg.de/datenschutzerklaerung/, https://github.com/datenanfragen/data/pull/2721",https://www.datarequests.org/company/dlrg-de/,https://www.datarequests.org/db/dlrg-de.json,19,"health, verified, email, phone, website",High
+Deutsche Kreditbank AG,dkb-bank,datenschutzanfragen@dkb.de,+49 30 12030000,https://www.dkb.de/,"Taubenstraße 7 – 9
+10117 Berlin
+Deutschland",finance,de,verified,"https://www.dkb.de/info/impressum/, https://www.dkb.de/kundenservice/datenschutz",https://www.datarequests.org/company/dkb-bank/,https://www.datarequests.org/db/dkb-bank.json,19,"finance, verified, email, phone, website",High
+Deutsche Glasfaser,deutsche-glasfaser,datenschutz@deutsche-glasfaser.de,+49 2861 890600,https://www.deutsche-glasfaser.de/,"Am Kuhm 31
+46325 Borken
+Deutschland",telecommunication,de,verified,https://www.deutsche-glasfaser.de/unternehmen/datenschutz/,https://www.datarequests.org/company/deutsche-glasfaser/,https://www.datarequests.org/db/deutsche-glasfaser.json,19,"telecom, verified, email, phone, website",High
+Deutsche Bausparkasse Badenia AG,badenia-de,datenschutz@badenia.de,+49 721 9950,https://www.badenia.de,"Badeniaplatz 1
+76114 Karlsruhe
+Deutschland",insurance,de,verified,https://www.badenia.de/datenschutz,https://www.datarequests.org/company/badenia-de/,https://www.datarequests.org/db/badenia-de.json,19,"insurance, verified, email, phone, website",High
+compass private pflegeberatung GmbH,compass-pflegeberatung,mail@kinast.eu,+49 221 2221830,https://www.compass-pflegeberatung.de/,"c/o KINAST Rechtsanwaltsgesellschaft mbH
+Hohenzollernring 54
+50672 Köln
+Deutschland",health,de,verified,"https://www.compass-pflegeberatung.de/datenschutz, https://github.com/datenanfragen/data/issues/665",https://www.datarequests.org/company/compass-pflegeberatung/,https://www.datarequests.org/db/compass-pflegeberatung.json,19,"health, verified, email, phone, website",High
+Companisto GmbH,companisto,datenschutz@companisto.com,+49 30 346491493,https://www.companisto.com,"Köpenicker Str. 154
+10997 Berlin
+Deutschland",finance,de,verified,"https://github.com/datenanfragen/data/issues/102, https://www.companisto.com/en/page/privacy-policy",https://www.datarequests.org/company/companisto/,https://www.datarequests.org/db/companisto.json,19,"finance, verified, email, phone, website",High
+Communication Services Tele2 GmbH,tele2,datenschutz@tele2.com,+49 211 40824082,https://www.tele2.de/,"In der Steele 39
+40599 Düsseldorf
+Deutschland",telecommunication,de,verified,"https://www.tele2.de/Unternehmen/Datenschutz, https://www.tele2.de/Unternehmen/Impressum",https://www.datarequests.org/company/tele2/,https://www.datarequests.org/db/tele2.json,19,"telecom, verified, email, phone, website",High
+Vivento,vivento,datenschutz@telekom.de,+49 800 3304006,https://www.vivento.de/,"c/o Deutsche Telekom AG
+Friedrich-Ebert-Allee 140
+53113 Bonn
+Deutschland","telecommunication, finance",de,verified,"https://www.vivento.de/datenschutz.html, https://www.telekom.com/de/verantwortung/datenschutz-und-datensicherheit/datenschutz, https://github.com/datenanfragen/data/pull/1678",https://www.datarequests.org/company/vivento/,https://www.datarequests.org/db/vivento.json,19,"finance, verified, email, phone, website",High
+Vivacom,vivacom,dpo@vivacom.bg,+359 2 949 6079,https://www.vivacom.bg/,"Bulevard Tsarigradsko Shose 115 I
+Mladost
+1784 Sofia
+Bulgaria",telecommunication,bg,verified,"https://www.vivacom.bg/bg/files/7639-politika-za-poveritelnost.pdf, https://github.com/datenanfragen/data/pull/1090",https://www.datarequests.org/company/vivacom/,https://www.datarequests.org/db/vivacom.json,19,"telecom, verified, email, phone, website",High
+VisualVest GmbH,visualvest,Datenschutz@visualvest.de,+49 69 962355001,https://www.visualvest.de/,"Weißfrauenstraße 7
+60311 Frankfurt am Main
+Deutschland",finance,de,verified,https://geldanlage.visualvest.de/datenschutz/,https://www.datarequests.org/company/visualvest/,https://www.datarequests.org/db/visualvest.json,19,"finance, verified, email, phone, website",High
+Visa Europe Limited,visa-eu,privacy@visa.com,,https://www.visaeurope.com/,"1 Sheldon Square
+London
+W2 6TT
+United Kingdom",finance,all,verified,"https://www.visa.co.uk/legal/global-privacy-notice/jurisdictional-notice-eea.html, https://www.visa.co.uk/legal/privacy-policy.html, https://www.visa.de/impressum.html, https://www.authorize.net/about-us.html, https://www.cybersource.com/en/about.html",https://www.datarequests.org/company/visa-eu/,https://www.datarequests.org/db/visa-eu.json,19,"finance, verified, email, website, global",High
+Wire Swiss GmbH,wire-com,privacy@wire.com,,https://wire.com,"Untermüli 9
+6300 Zug
+Switzerland",telecommunication,all,verified,https://wire.com/en/legal/#privacy,https://www.datarequests.org/company/wire-com/,https://www.datarequests.org/db/wire-com.json,19,"telecom, verified, email, website, global",High
+willy.tel GmbH,willytel,datenschutz@willytel.de,+49 40 696963679,https://www.willytel.de,"Hinschenfelder Stieg 6
+22041 Hamburg
+Deutschland",telecommunication,de,verified,"https://www.willytel.de/datenschutz, https://www.willytel.de/impressum, https://github.com/datenanfragen/data/pull/1244",https://www.datarequests.org/company/willytel/,https://www.datarequests.org/db/willytel.json,19,"telecom, verified, email, phone, website",High
+TeamBank AG,teambank-de,datenschutz@teambank.de,+49 911 53902000,https://www.teambank.de,"Beuthener Str. 25
+90471 Nürnberg
+Deutschland",finance,de,verified,"https://www.fymio.de/datenschutz/, https://www.fymio.de/impressum/, https://www.teambank.de/datenschutz/, https://www.teambank.de/wp-content/uploads/2018/05/Datenschutzhinweise.pdf",https://www.datarequests.org/company/teambank-de/,https://www.datarequests.org/db/teambank-de.json,19,"finance, verified, email, phone, website",High
+Taxfix GmbH,taxfix,privacy@taxfix.de,+49 30 92106949,https://taxfix.de,"Karl-Liebknecht-Str. 34
+10178 Berlin
+Deutschland",finance,"de, it, fr",verified,"https://taxfix.de/datenschutz/, https://github.com/datenanfragen/data/pull/1163",https://www.datarequests.org/company/taxfix/,https://www.datarequests.org/db/taxfix.json,19,"finance, verified, email, phone, website",High
+Tarifhaus Online GmbH,tarifhaus-de,impressum@tarifhaus.de,+49 89 215474880,https://www.tarifhaus.de,"Würmstraße 55
+82166 Gräfelfing
+Deutschland",telecommunication,de,verified,"https://www.tarifhaus.de/datenschutz, https://www.tarifhaus.de/impressum/, https://github.com/datenanfragen/data/issues/330",https://www.datarequests.org/company/tarifhaus-de/,https://www.datarequests.org/db/tarifhaus-de.json,19,"telecom, verified, email, phone, website",High
+TARGOBANK AG,targobank,kontakt@targobank.de,+49 211 89840,https://www.targobank.de/,"Postfach 21 04 53
+47026 Duisburg
+Deutschland",finance,de,verified,"https://www.targobank.de/datenschutz/index.html, https://www.targobank.de/impressum/index.html, https://github.com/datenanfragen/data/issues/627",https://www.datarequests.org/company/targobank/,https://www.datarequests.org/db/targobank.json,19,"finance, verified, email, phone, website",High
+APONEO – Mehr als Apotheke,aponeo,datenschutz@aponeo.de,+49 800 4400200,https://www.aponeo.de,"Plauener Str. 163-165
+13053 Berlin
+Deutschland","health, commerce",de,verified,"https://www.aponeo.de/informationen/rechtliches/impressum/, https://www.aponeo.de/informationen/rechtliches/datenschutz/, https://github.com/datenanfragen/data/issues/261",https://www.datarequests.org/company/aponeo/,https://www.datarequests.org/db/aponeo.json,19,"health, verified, email, phone, website",High
+AOK-Bundesverband eGbR,aok,datenschutz@bv.aok.de,+49 30 346460,https://www.aok.de/pp/bv/,"Rosenthaler Straße 31
+10178 Berlin
+Deutschland",insurance,de,verified,"https://www.aok.de/pk/rechtliches/datenschutzrechte-bundesverband/, https://www.aok.de/karriere/datenschutzrechte/",https://www.datarequests.org/company/aok/,https://www.datarequests.org/db/aok.json,19,"insurance, verified, email, phone, website",High
+AOK Niedersachsen,aok-niedersachsen,Datenschutz@nds.aok.de,+49 511 87010,https://www.aok.de/pk/niedersachsen/,"Hildesheimer Straße 273
+30519 Hannover
+Deutschland",insurance,de,verified,"https://www.aok.de/pk/niedersachsen/inhalt/informationen-zur-datenverarbeitung-2/, https://www.aok.de/karriere/datenschutzrechte/, https://github.com/datenanfragen/data/issues/82",https://www.datarequests.org/company/aok-niedersachsen/,https://www.datarequests.org/db/aok-niedersachsen.json,19,"insurance, verified, email, phone, website",High
+Anteolink Limited,chargebackhit,support@chargebackhit.com,,https://chargebackhit.com/,"loanni Mina, 8
+‘Agios loannis
+4871 Limassol
+Cyprus",finance,all,verified,"https://chargebackhit.com/terms-of-use/, https://github.com/datenanfragen/data/pull/2149",https://www.datarequests.org/company/chargebackhit/,https://www.datarequests.org/db/chargebackhit.json,19,"finance, verified, email, website, global",High
+ANTEC Servicepool GmbH,antec-servicepool,michael@schweyda.com,+49 511 2709030,https://www.antec-servicepool.de,"℅ Michael Schweyda
+Goldene Aue 1
+38640 Goslar
+Deutschland",telecommunication,de,verified,"https://www.antec-servicepool.de/datenschutz, https://github.com/datenanfragen/data/pull/2502",https://www.datarequests.org/company/antec-servicepool/,https://www.datarequests.org/db/antec-servicepool.json,19,"telecom, verified, email, phone, website",High
+SYNLAB Holding Deutschland GmbH,synlab,datenschutz@synlab.com,+49 821 521570,https://www.synlab.de,"Gubener Straße 39
+86156 Augsburg
+Deutschland",health,de,verified,"https://www.synlab.de/datenschutz, https://www.synlab.de/impressum, https://github.com/datenanfragen/data/pull/2642",https://www.datarequests.org/company/synlab/,https://www.datarequests.org/db/synlab.json,19,"health, verified, email, phone, website",High
+Sykes Enterprises Bochum GmbH & Co. KG,sykes-de,Datenschutz@sykes.com,+49 234 5398000,https://www.sykes.com,"Bessemerstr. 85
+44793 Bochum
+Deutschland",telecommunication,de,verified,"https://www.sykes.com/germany/kontakt/, https://github.com/datenanfragen/data/pull/1218, https://www.sykes.com/privacy-policy/gdpr-privacy-statement/",https://www.datarequests.org/company/sykes-de/,https://www.datarequests.org/db/sykes-de.json,19,"telecom, verified, email, phone, website",High
+SWICA Krankenversicherung AG,swica,datenschutz@swica.ch,+41 52 244 22 33,https://www.swica.ch/,"Römerstrasse 38
+8401 Winterthur
+Schweiz",health,"li, ch",verified,"https://www.swica.ch/de/ueber-swica/portrait/ueberblick/datenschutz, https://www.swica.ch/de/ueber-swica/portrait/ueberblick/datenschutz/datenschutzerklaerung, https://www4.swica.ch/p/826_d_Datenschutzerklaerung_Liechtenstein.pdf, https://www.swica.ch/de/ueber-swica/portrait/ueberblick/datenschutz/impressum",https://www.datarequests.org/company/swica/,https://www.datarequests.org/db/swica.json,19,"health, verified, email, phone, website",High
+SV SparkassenVersicherung,sparkassenversicherung,service@sv.de,+49 711 898100,https://www.sparkassenversicherung.de,"Löwentorstraße 65
+70376 Stuttgart
+Deutschland",insurance,de,verified,https://www.sparkassenversicherung.de/datenschutz.html,https://www.datarequests.org/company/sparkassenversicherung/,https://www.datarequests.org/db/sparkassenversicherung.json,19,"insurance, verified, email, phone, website",High
+Theresien Apotheke Filialapotheke der Ahorn Apotheke,ihre-ahornapotheke-de,info@ihre-ahornapotheke.de,+49 911 9518082,http://www.ihre-ahornapotheke.de,"Leipziger Platz 13
+90491 Nürnberg
+Deutschland",health,de,verified,"https://github.com/datenanfragen/data/issues/416, http://www.ihre-ahornapotheke.de/a/?page_id=6397, http://ihre-theresienapotheke.de/t/?page_id=6110",https://www.datarequests.org/company/ihre-ahornapotheke-de/,https://www.datarequests.org/db/ihre-ahornapotheke-de.json,19,"health, verified, email, phone, website",High
+Texa S.p.A.,texa,dpo@texa.com,+39 0422 791393,https://www.texa.com,"Via Vallio 15
+31050 Monastier di Treviso
+Italy","utility, commerce, telecommunication","de, it, gb, es, pl, fr",verified,"https://www.texa.com, https://www.texa.com/privacy",https://www.datarequests.org/company/texa/,https://www.datarequests.org/db/texa.json,19,"telecom, verified, email, phone, website",High
+Ammerländer Versicherung VVaG,ammerlaender-versicherung,datenschutz@ammerlaender-versicherung.de,+49 4488 537370,https://www.ammerlaender-versicherung.de/,"Bahnhofstraße 8
+26655 Westerstede
+Deutschland",insurance,de,verified,"https://github.com/datenanfragen/data/pull/1238, https://www.ammerlaender-versicherung.de/datenschutz.aspx",https://www.datarequests.org/company/ammerlaender-versicherung/,https://www.datarequests.org/db/ammerlaender-versicherung.json,19,"insurance, verified, email, phone, website",High
+SOLIT Management GmbH,solit-kapital,datenschutz@solit-kapital.de,+49 6122 587070,https://www.solit-kapital.de/,"Otto-von-Guericke-Ring 10
+65205 Wiesbaden
+Deutschland",finance,"de, ch",verified,"https://www.solit-kapital.de/datenschutz, https://github.com/datenanfragen/data/pull/1724",https://www.datarequests.org/company/solit-kapital/,https://www.datarequests.org/db/solit-kapital.json,19,"finance, verified, email, phone, website",High
+SolarWinds Software Europe DAC,solarwinds,privacy@solarwinds.com,,https://www.solarwinds.com/,"Unit 1101, Building 1000
+City Gate, Mahon
+Cork
+Ireland",telecommunication,all,verified,"https://www.solarwinds.com/legal/privacy, https://www.solarwinds.com/company/contact-us, https://github.com/datenanfragen/data/pull/2072",https://www.datarequests.org/company/solarwinds/,https://www.datarequests.org/db/solarwinds.json,19,"telecom, verified, email, website, global",High
+Supranet AG,supranet,dsb@supra.net,+423 377 44 43,https://supra.net/,"Im alten Riet 121
+9494 Schaan
+Liechtenstein",telecommunication,li,verified,https://supra.net/datenschutz,https://www.datarequests.org/company/supranet/,https://www.datarequests.org/db/supranet.json,19,"telecom, verified, email, phone, website",High
+"Superhuman Labs, Inc.",superhuman,privacy@superhuman.com,,https://superhuman.com,"555 Mission Street #300
+San Francisco CA 94105
+United States of America",telecommunication,all,verified,"https://superhuman.com/privacy, https://superhuman.com/contact",https://www.datarequests.org/company/superhuman/,https://www.datarequests.org/db/superhuman.json,19,"telecom, verified, email, website, global",High
+Südtiroler Sparkasse AG Niederlassung München,suedspa-de,Datenschutz@suedspa.de,+49 89 59944350,https://www.suedspa.de/,"Gaißacher Straße 18
+81371 München
+Deutschland",finance,de,verified,"https://www.suedspa.de/de/information/datenschutz/6-0.html, https://github.com/datenanfragen/data/pull/830",https://www.datarequests.org/company/suedspa-de/,https://www.datarequests.org/db/suedspa-de.json,19,"finance, verified, email, phone, website",High
+Südtiroler Sparkasse AG,suedtiroler-sparkasse,privacy.crbz@sparkasse.it,+39 840 052 052,https://www.sparkasse.it,"Sparkassenstraße 12
+39100 Bozen
+Italy",finance,"it, at, ch",verified,"https://www.sparkasse.it/de/privacy/, https://github.com/datenanfragen/data/pull/831",https://www.datarequests.org/company/suedtiroler-sparkasse/,https://www.datarequests.org/db/suedtiroler-sparkasse.json,19,"finance, verified, email, phone, website",High
+"Strava, Inc.",strava,dpo@strava.com,,https://www.strava.com,"208 Utah Street
+San Francisco CA 94103
+United States of America",health,all,verified,https://www.strava.com/legal/privacy,https://www.datarequests.org/company/strava/,https://www.datarequests.org/db/strava.json,19,"health, verified, email, website, global",High
+STRATO AG,strato,datenschutz@strato.de,+49 30 3001460,https://www.strato.de,"Pascalstraße 10
+10587 Berlin
+Deutschland",telecommunication,de,verified,"https://www.strato.de/datenschutz/, https://www.strato.de/impressum/",https://www.datarequests.org/company/strato/,https://www.datarequests.org/db/strato.json,19,"telecom, verified, email, phone, website",High
+ARAG Allgemeine Versicherungs-AG,arag-de,datenschutz@arag.de,+49 211 98700700,https://www.arag.de,"AKB 105D
+ARAG Platz 1
+40472 Düsseldorf
+Deutschland",insurance,de,verified,"https://www.arag.de/datenschutzerklaerung/, https://github.com/datenanfragen/data/issues/606",https://www.datarequests.org/company/arag-de/,https://www.datarequests.org/db/arag-de.json,19,"insurance, verified, email, phone, website",High
+Apple Distribution International Ltd.,apple,contactus.de@euro.apple.com,,https://www.apple.com,"Hollyhill Industrial Estate
+Hollyhill, Cork
+Ireland","commerce, entertainment, telecommunication",all,verified,"https://www.apple.com/legal/privacy/de-ww/, https://www.apple.com/legal/privacy/en-ww/, https://www.apple.com/de/contact/, https://github.com/datenanfragen/data/pull/3450, https://github.com/datenanfragen/data/pull/3465",https://www.datarequests.org/company/apple/,https://www.datarequests.org/db/apple.json,19,"telecom, verified, email, website, global",High
+Apotheke am Engelbecken,apotheke-am-engelbecken,gesundheit@apotheke-am-engelbecken.de,+49 30 27560275,https://www.apotheke-am-engelbecken.de,"Heinrich-Heine-Str. 15
+10179 Berlin-Mitte
+Deutschland","health, commerce",de,verified,"https://github.com/datenanfragen/data/issues/574, https://www.apotheke-am-engelbecken.de/info/impressum/",https://www.datarequests.org/company/apotheke-am-engelbecken/,https://www.datarequests.org/db/apotheke-am-engelbecken.json,19,"health, verified, email, phone, website",High
+Stiftung Begabtenförderung berufliche Bildung gGmbH,sbb-stipendien-de,datenschutz@sbb-stipendien.de,+49 228 28614060,https://www.sbb-stipendien.de,"c/o Sicoda GmbH
+Rochusstraße 198
+53123 Bonn
+Deutschland",finance,de,verified,"https://www.sbb-stipendien.de/sbb-start/datenschutz/datenschutz-bewerbung, https://github.com/datenanfragen/data/pull/1561",https://www.datarequests.org/company/sbb-stipendien-de/,https://www.datarequests.org/db/sbb-stipendien-de.json,19,"finance, verified, email, phone, website",High
+Stellantis Bank SA Niederlassung Deutschland,opelbank-de,info-de@stellantis-finance.com,+49 6102 302111,https://www.stellantis-financial-services.de,"Siemensstraße 10
+63263 Neu-Isenburg am Main
+Deutschland",finance,de,verified,"https://www.stellantis-financial-services.de/datenschutz, https://www.stellantis-direktbank.de/datenschutzerklaerung.html, https://www.opel-direktbank.de/datenschutzinformationen, https://financing.peugeot.store/datenschutz, https://github.com/datenanfragen/data/pull/827",https://www.datarequests.org/company/opelbank-de/,https://www.datarequests.org/db/opelbank-de.json,19,"finance, verified, email, phone, website",High
+StartMail BV,startmail,privacypolicy@startmail.com,,https://www.startmail.com,"Boulevard 11
+3707 BK Zeist
+The Netherlands",telecommunication,all,verified,https://www.startmail.com/en/privacy,https://www.datarequests.org/company/startmail/,https://www.datarequests.org/db/startmail.json,19,"telecom, verified, email, website, global",High
+Star Finanz GmbH,yomo-starfinanz,datenschutz@starfinanz.de,+49 40 237280,https://www.starfinanz.de,"Grüner Deich 15
+20097 Hamburg
+Deutschland",finance,de,verified,"https://www.starfinanz.de/datenschutz/, https://www.starfinanz.de/impressum/, https://financefwd.com/de/yomo-abschied/",https://www.datarequests.org/company/yomo-starfinanz/,https://www.datarequests.org/db/yomo-starfinanz.json,19,"finance, verified, email, phone, website",High
+Stadtsparkasse München,stadtsparkasse-muenchen,datenschutzbeauftragter@sskm.de,+49 89 21670,https://www.sskm.de,"Sparkassenstraße 2
+80331 München
+Deutschland",finance,de,verified,"https://www.sskm.de/de/home/toolbar/datenschutz.html?n=true&stref=footer, https://github.com/datenanfragen/data/pull/2786",https://www.datarequests.org/company/stadtsparkasse-muenchen/,https://www.datarequests.org/db/stadtsparkasse-muenchen.json,19,"finance, verified, email, phone, website",High
+SIGNAL IDUNA Gruppe,signal-iduna,datenschutz@signal-iduna.de,+49 231 1354630,https://www.signal-iduna.de/,"Joseph-Scherer-Straße 3
+44139 Dortmund
+Deutschland",insurance,de,verified,"https://www.signal-iduna.de/datenschutz-und-rechtliche-hinweise.php, https://www.signal-iduna.de/anbieter.php",https://www.datarequests.org/company/signal-iduna/,https://www.datarequests.org/db/signal-iduna.json,19,"insurance, verified, email, phone, website",High
+SHL Telemedizin GmbH,shl-telemedizin,datenschutz@shltm.de,+49 89 480590,https://www.shl-telemedizin.de,"Balanstraße 69b
+81541 München
+Deutschland",health,de,verified,"https://www.shl-telemedizin.de/datenschutz/, https://github.com/datenanfragen/data/issues/664",https://www.datarequests.org/company/shl-telemedizin/,https://www.datarequests.org/db/shl-telemedizin.json,19,"health, verified, email, phone, website",High
+AutoScout24 GmbH,autoscout24,widerspruch@autoscout24.de,+49 89 444561666,https://www.autoscout24.de/,"Bothestraße 11 – 15
+81675 München
+Deutschland","commerce, finance, insurance",de,verified,"http://about.autoscout24.com/de-de/au-company/au-company-privacy.aspx?genlnk=foot&genlnkorigin=de-all-all-home, http://about.autoscout24.com/de-de/au-company/au-company-imprint.aspx?genlnk=foot&genlnkorigin=de-vm-custom-b2c-lp-autokreditvergleich",https://www.datarequests.org/company/autoscout24/,https://www.datarequests.org/db/autoscout24.json,19,"finance, verified, email, phone, website",High
+Audi BKK,audibkk,datenschutz@audibkk.de,+49 841 887887,https://www.audibkk.de/,"Postfach 100 160
+85001 Ingolstadt
+Deutschland",insurance,de,verified,"https://www.audibkk.de/datenschutz/, https://www.audibkk.de/impressum/",https://www.datarequests.org/company/audibkk/,https://www.datarequests.org/db/audibkk.json,19,"insurance, verified, email, phone, website",High
+Senfcall,senfcall,datenschutz@senfcall.de,,https://www.senfcall.de/,"c/o Computerwerk Darmstadt e.V.
+Karolinenplatz 5
+64289 Darmstadt
+Germany","telecommunication, nonprofit",all,verified,https://www.senfcall.de/gdpr,https://www.datarequests.org/company/senfcall/,https://www.datarequests.org/db/senfcall.json,19,"telecom, verified, email, website, global",High
+Scaleway,scaleway,privacy@scaleway.com,,https://www.scaleway.com,"8 rue de la Ville l’Evêque
+75008 Paris 8
+France",telecommunication,all,verified,"https://www.scaleway.com/en/privacy-policy/, https://github.com/datenanfragen/data/pull/1086",https://www.datarequests.org/company/scaleway/,https://www.datarequests.org/db/scaleway.json,19,"telecom, verified, email, website, global",High
+Splitwise Inc.,splitwise,support@splitwise.com,,https://secure.splitwise.com/,"150 Union St #606
+Providence, RI 02903
+United States of America",finance,all,verified,"https://secure.splitwise.com/privacy, https://github.com/datenanfragen/data/pull/2629",https://www.datarequests.org/company/splitwise/,https://www.datarequests.org/db/splitwise.json,19,"finance, verified, email, website, global",High
+Sparkasse Karlsruhe,sparkasse-karlsruhe,datenschutzbeauftragter@spk-ka.de,+49 721 1460,https://www.sparkasse-karlsruhe.de/,"Kaiserstr. 223
+76133 Karlsruhe
+Deutschland",finance,de,verified,"https://www.sparkasse-karlsruhe.de/de/home/toolbar/datenschutz.html, https://github.com/datenanfragen/data/pull/2010",https://www.datarequests.org/company/sparkasse-karlsruhe/,https://www.datarequests.org/db/sparkasse-karlsruhe.json,19,"finance, verified, email, phone, website",High
+Sparkasse Ingolstadt Eichstätt,sparkasse-ingolstadt-eichstaett,dsb@spk-in-ei.de,+49 841 3044040,https://www.spk-in-ei.de/,"Rathausplatz 6
+85049 Ingolstadt
+Deutschland",finance,de,verified,"https://www.spk-in-ei.de/de/home/toolbar/datenschutz.html, https://github.com/datenanfragen/data/pull/1830",https://www.datarequests.org/company/sparkasse-ingolstadt-eichstaett/,https://www.datarequests.org/db/sparkasse-ingolstadt-eichstaett.json,19,"finance, verified, email, phone, website",High
+Sparkasse Hannover,sparkasse-hannover,datenschutzbeauftragter@sparkasse-hannover.de,,https://www.sparkasse-hannover.de,"Raschplatz 4
+30161 Hannover
+Deutschland",finance,all,verified,"https://www.sparkasse-hannover.de/de/home/toolbar/datenschutz.html, https://github.com/datenanfragen/data/pull/1271",https://www.datarequests.org/company/sparkasse-hannover/,https://www.datarequests.org/db/sparkasse-hannover.json,19,"finance, verified, email, website, global",High
+Sparda-Bank West eG,sparda-west,datenschutz@sparda-west.de,+49 211 23932393,https://www.sparda-west.de,"Ludwig-Erhard-Allee 15
+40227 Düsseldorf
+Deutschland",finance,de,verified,"https://www.sparda-west.de/datenschutz.html, https://www.sparda-west.de/internetauftritt/globale-inhaltsseiten/nachricht-pressemitteilung_9280.html, https://github.com/datenanfragen/data/pull/736",https://www.datarequests.org/company/sparda-west/,https://www.datarequests.org/db/sparda-west.json,19,"finance, verified, email, phone, website",High
+Sparda-Bank Hessen eG,sparda-hessen,datenschutz@sparda-hessen.de,+49 69 7537500,https://www.sparda-hessen.de,"Osloer Straße 2
+60327 Frankfurt am Main
+Deutschland",finance,de,verified,"https://www.sparda-hessen.de/datenschutz.html, https://github.com/datenanfragen/data/pull/856",https://www.datarequests.org/company/sparda-hessen/,https://www.datarequests.org/db/sparda-hessen.json,19,"finance, verified, email, phone, website",High
+Sparda-Bank Hannover eG,sparda-bank-hannover,sparda@sparda-h.de,+49 511 30180,https://www.sparda-h.de/,"c/o SIZ GmbH
+Simrockstraße 4
+53113 Bonn
+Deutschland",finance,de,verified,https://www.sparda-h.de/service/rechtliche-hinweise/datenschutz.html,https://www.datarequests.org/company/sparda-bank-hannover/,https://www.datarequests.org/db/sparda-bank-hannover.json,19,"finance, verified, email, phone, website",High
+Soverin B.V.,soverin,support@soverin.net,,https://soverin.net,"Vijzelstraat 68
+1017 HL Amsterdam
+The Netherlands",telecommunication,all,verified,"https://soverin.com/about/privacy, https://soverin.com/about/general-terms-and-conditions",https://www.datarequests.org/company/soverin/,https://www.datarequests.org/db/soverin.json,19,"telecom, verified, email, website, global",High
+Assurant Deutschland GmbH,assurant,info@assurantsolutions.de,+49 69 6657580,https://www.assurant.de/,"Lyoner Straße 15
+60528 Frankfurt am Main
+Deutschland",insurance,de,verified,"https://www.assurant.de/impressum, https://github.com/datenanfragen/data/issues/507",https://www.datarequests.org/company/assurant/,https://www.datarequests.org/db/assurant.json,19,"insurance, verified, email, phone, website",High
+Ärzte ohne Grenzen e. V.,aerzte-ohne-grenzen,office@berlin.msf.org,+49 30 7001300,https://www.aerzte-ohne-grenzen.de,"Schwedenstraße 9
+13359 Berlin
+Deutschland","nonprofit, health",de,verified,"https://www.aerzte-ohne-grenzen.de/datenschutz-und-datensicherheit, https://github.com/datenanfragen/data/pull/877",https://www.datarequests.org/company/aerzte-ohne-grenzen/,https://www.datarequests.org/db/aerzte-ohne-grenzen.json,19,"health, verified, email, phone, website",High
+TÜV SÜD,tuev-sued,datenschutzbeauftragter@tuvsud.com,+49 89 57910,https://www.tuvsud.com,"Westendstr. 199
+80686 München
+Deutschland","public body, school, telecommunication, travel, commerce, utility, health",de,verified,"https://www.tuvsud.com/de-de/datenschutz, https://www.tuvsud.com/de-de/impressum",https://www.datarequests.org/company/tuev-sued/,https://www.datarequests.org/db/tuev-sued.json,19,"health, verified, email, phone, website",High
+TÜV Rheinland Group,tuev-rheinland,datenschutzbeauftragter@de.tuv.com,+49 221 8060,https://www.tuv.com,"Am Grauen Stein
+51105 Köln
+Deutschland","public body, school, telecommunication, travel, commerce, utility, health",de,verified,https://www.tuv.com/germany/de/data-protection-declaration-de/,https://www.datarequests.org/company/tuev-rheinland/,https://www.datarequests.org/db/tuev-rheinland.json,19,"health, verified, email, phone, website",High
+TÜV NORD GROUP,tuev-nord,privacy@tuev-nord.de,+49 201 8252165,https://www.tuev-nord.de,"Am Technologiepark 1
+45307 Essen
+Deutschland","commerce, health, utility, school, telecommunication, public body",de,verified,"https://www.tuev-nord.de/de/datenschutz/, https://www.tuev-nord.de/de/datenschutz-mpi/, https://www.medituev.de/de/datenschutz/, https://www.tuev-nord.de/de/datenschutz-ensys/, https://www.tuev-nord.de/de/unternehmen/bildung/bildungsberater-standorte/tuev-nord-akademie/datenschutz/datenschutzhinweise/, https://www.tuev-nord.de/fileadmin/user_upload/datenschutz-systems.pdf, https://www.tuev-nord.de/de/dsgvo/, https://www.tuev-nord.de/de/impressum/",https://www.datarequests.org/company/tuev-nord/,https://www.datarequests.org/db/tuev-nord.json,19,"health, verified, email, phone, website",High
+Tucows,tucows,dpo@tucows.com,,https://www.tucows.com,"c/o Rickert Rechtsanwaltsgesellschaft m.b.H
+Kaiserplatz 7 - 9
+53113 Bonn
+Germany",telecommunication,all,verified,"https://www.hover.com/privacy, https://opensrs.com/privacy-policy/",https://www.datarequests.org/company/tucows/,https://www.datarequests.org/db/tucows.json,19,"telecom, verified, email, website, global",High
+TTT-Filmservice GmbH,ttt48,shop@ttt48.de,+49 7131 3828998,https://www.ttt48.de,"Röntgentraße 4
+67133 Maxdorf
+Deutschland","commerce, health",de,verified,"https://www.ttt48.de/datenschutz.html, https://github.com/datenanfragen/data/pull/1544",https://www.datarequests.org/company/ttt48/,https://www.datarequests.org/db/ttt48.json,19,"health, verified, email, phone, website",High
+Triodos Bank N.V. Deutschland,triodos,datenschutz@triodos.de,+49 69 71719191,https://www.triodos.de,"Falkstraße 5
+60487 Frankfurt am Main
+Deutschland",finance,de,verified,"https://www.triodos.de/datenschutz, https://www.triodos.de/impressum, https://github.com/datenanfragen/data/pull/2418",https://www.datarequests.org/company/triodos/,https://www.datarequests.org/db/triodos.json,19,"finance, verified, email, phone, website",High
+ALPHA BANK S.A.,alpha-bank-gr,contact-DPO@alpha.gr,+30 21 0326 6953,https://www.alpha.gr/,"43, Panepistimiou Street
+105 64 Athens
+Greece",finance,gr,verified,https://www.alpha.gr/en/retail/oroi/personal-data-protection,https://www.datarequests.org/company/alpha-bank-gr/,https://www.datarequests.org/db/alpha-bank-gr.json,19,"finance, verified, email, phone, website",High
+Allianz SE,allianz,goodprivacy@allianz.com,+49 89 38000,https://www.allianz.com,"Königinstraße 28
+80802 München
+Deutschland",insurance,de,verified,"https://www.allianz.com/de/datenschutzprinzipien.html#Datenschutzerklaerung, https://www.allianz.com/de/impressum-allianz-se.html",https://www.datarequests.org/company/allianz/,https://www.datarequests.org/db/allianz.json,19,"insurance, verified, email, phone, website",High
+Avira Holding GmbH & Co. KG,avira,data-privacy@avira.com,,https://www.avira.com,"c/o Pembroke Privacy Ltd.
+4 Upper Pembroke Street
+Dublin 2
+Ireland","telecommunication, commerce",all,verified,"https://www.avira.com/en/privacy-policy/contact, https://github.com/datenanfragen/data/issues/49",https://www.datarequests.org/company/avira/,https://www.datarequests.org/db/avira.json,19,"telecom, verified, email, website, global",High
+ROLAND-Gruppe,roland-rechtsschutz,datenschutz@roland-ag.de,+49 221 8277500,https://www.roland-rechtsschutz.de,"Deutz-Kalker Straße 46
+50679 Köln
+Deutschland",insurance,de,verified,"https://www.roland-rechtsschutz.de/datenschutz/datenschutz.html, https://www.roland-rechtsschutz.de/impressum/impressum.html",https://www.datarequests.org/company/roland-rechtsschutz/,https://www.datarequests.org/db/roland-rechtsschutz.json,19,"insurance, verified, email, phone, website",High
+Robert Koch-Institut (RKI),rki-bund,datenschutz@rki.de,+49 30 187540,https://www.rki.de,"Nordufer 20
+13353 Berlin
+Deutschland","public body, health",de,verified,"https://www.rki.de/DE/Service/Datenschutz/datenschutz_node.html, https://www.rki.de/DE/Service/Impressum/impressum_node.html, https://github.com/datenanfragen/data/issues/612",https://www.datarequests.org/company/rki-bund/,https://www.datarequests.org/db/rki-bund.json,19,"health, verified, email, phone, website",High
+smava GmbH,smava,datenschutz@smava.de,+49 800 0009800,https://www.smava.de/,"Palisadenstraße 90
+10243 Berlin
+Deutschland",finance,de,verified,"https://www.smava.de/datenschutz, https://github.com/datenanfragen/data/issues/68",https://www.datarequests.org/company/smava/,https://www.datarequests.org/db/smava.json,19,"finance, verified, email, phone, website",High
+Sky Deutschland Fernsehen GmbH & Co. KG,sky-de,datenschutz@sky.de,+49 180 6 110000,https://www.sky.de,"Medienallee 26
+85774 Unterföhring
+Deutschland","telecommunication, entertainment","de, at, ch",verified,"https://www.sky.de/impressum, https://www.sky.de/datenschutz, https://www.wowtv.de/datenschutz-und-cookies, https://github.com/datenanfragen/data/pull/2016",https://www.datarequests.org/company/sky-de/,https://www.datarequests.org/db/sky-de.json,19,"telecom, verified, email, phone, website",High
+sipgate GmbH,sipgate,datenschutz@sipgate.de,+49 211 6355550,https://www.sipgate.de/,"Gladbacher Straße 74
+40219 Düsseldorf
+Deutschland",telecommunication,"de, gb",verified,"https://www.sipgate.de/datenschutz, https://www.sipgate.de/impressum",https://www.datarequests.org/company/sipgate/,https://www.datarequests.org/db/sipgate.json,19,"telecom, verified, email, phone, website",High
+SimpleLogin SAS,simplelogin,privacy@simplelogin.io,,https://simplelogin.io/,"147 boulevard Henri Sellier
+92150 Suresnes
+France",telecommunication,all,verified,"https://simplelogin.io/privacy/, https://github.com/datenanfragen/data/pull/2314",https://www.datarequests.org/company/simplelogin/,https://www.datarequests.org/db/simplelogin.json,19,"telecom, verified, email, website, global",High
+SilverTours GmbH,billiger-mietwagen-de,datenschutz@billiger-mietwagen.de,+49 221 56799911,https://www.billiger-mietwagen.de/,"Konrad-Goldmann-Straße 5d
+79100 Freiburg
+Deutschland","travel, insurance",de,verified,"https://www.billiger-mietwagen.de/datenschutz.htm, https://www.billiger-mietwagen.de/impressum.htm",https://www.datarequests.org/company/billiger-mietwagen-de/,https://www.datarequests.org/db/billiger-mietwagen-de.json,19,"insurance, verified, email, phone, website",High
+R+V Versicherungsgruppe,ruv-versicherung,datenschutz@ruv.de,+49 611 5335074,https://www.ruv.de,"Raiffeisenplatz 1
+65189 Wiesbaden
+Deutschland",insurance,de,verified,"https://www.ruv.de/datenschutz, https://www.ruv.de/impressum",https://www.datarequests.org/company/ruv-versicherung/,https://www.datarequests.org/db/ruv-versicherung.json,19,"insurance, verified, email, phone, website",High
+Quoniam Asset Management GmbH,quoniam,dataprotection@quoniam.com,+49 69 743840,https://www.quoniam.com,"Westhafenplatz 1
+60327 Frankfurt am Main
+Deutschland",finance,de,verified,"https://www.quoniam.com/datenschutzerklaerung/, https://www.quoniam.com/impressum/",https://www.datarequests.org/company/quoniam/,https://www.datarequests.org/db/quoniam.json,19,"finance, verified, email, phone, website",High
+Scalable Capital Vermögensverwaltung GmbH,scalablecapital,service@scalable.capital,+49 221 2221830,https://de.scalable.capital/,"c/o KINAST Rechtsanwaltsgesellschaft mbH
+Hohenzollernring 54
+50672 Köln
+Deutschland",finance,"de, at",verified,"https://de.scalable.capital/impressum, https://de.scalable.capital/datenschutz",https://www.datarequests.org/company/scalablecapital/,https://www.datarequests.org/db/scalablecapital.json,19,"finance, verified, email, phone, website",High
+samedi GmbH,samedi-de,datenschutz@samedi.de,+49 30 212307070,https://www.samedi.de,"Rigaer Straße 44
+10247 Berlin
+Deutschland",health,"de, at, ch",verified,"https://www.samedi.de/datenschutz.html, https://github.com/datenanfragen/data/pull/972",https://www.datarequests.org/company/samedi-de/,https://www.datarequests.org/db/samedi-de.json,19,"health, verified, email, phone, website",High
+SAARLAND Versicherungen,saarland-versicherungen,datenschutz@saarland-versicherungen.de,+49 89 21601880,https://www.saarland-versicherungen.de,"Mainzer Straße 32 – 34
+66111 Saarbrücken
+Deutschland",insurance,de,verified,"https://www.saarland-versicherungen.de/content/ihre-saarland/unternehmen/compliance-datenschutz/#datenschutz, https://www.saarland-versicherungen.de/content/ihre-saarland/impressum/",https://www.datarequests.org/company/saarland-versicherungen/,https://www.datarequests.org/db/saarland-versicherungen.json,19,"insurance, verified, email, phone, website",High
+S Broker AG & Co. KG,s-broker,datenschutz@sbroker.de,+49 611 20441911,https://www.sbroker.de,"Carl-Bosch-Straße 10
+65203 Wiesbaden
+Deutschland",finance,de,verified,"https://www.sbroker.de/sbl/home/ds, https://www.sbroker.de/sbl/home/impressum, https://github.com/datenanfragen/data/pull/1268",https://www.datarequests.org/company/s-broker/,https://www.datarequests.org/db/s-broker.json,19,"finance, verified, email, phone, website",High
+RSG Group GmbH,rsggroup,datenschutz@rsggroup.com,+49 9552 93190,https://rsggroup.com/,"Tannenberg 4
+96132 Schlüsselfeld
+Deutschland",health,de,verified,"https://rsggroup.com/datenschutz/, https://github.com/datenanfragen/data/pull/1177",https://www.datarequests.org/company/rsggroup/,https://www.datarequests.org/db/rsggroup.json,19,"health, verified, email, phone, website",High
+AXA Konzern AG,axa,datenschutz@axa.de,+49 221 14824349,https://www.axa.de/,"Colonia Allee 10 – 20
+51067 Köln
+Deutschland",insurance,de,verified,"https://www.axa.de/datenschutz, https://www.axa.de/impressum",https://www.datarequests.org/company/axa/,https://www.datarequests.org/db/axa.json,19,"insurance, verified, email, phone, website",High
+AVM Computersysteme Vertriebs GmbH,avm,datenschutz@avm.de,+49 30 399760,https://avm.de,"Alt-Moabit 95
+10559 Berlin
+Germany","telecommunication, commerce","de, at, ch, nl, es, it, pl, be, lu",verified,"https://avm.de/datenschutz, https://github.com/datenanfragen/data/pull/1214",https://www.datarequests.org/company/avm/,https://www.datarequests.org/db/avm.json,19,"telecom, verified, email, phone, website",High
+Avis Budget Autovermietung GmbH & Co. KG,avis,dpo@abg.com,+49 6171 680,https://www.avis.de/,"Zimmersmühlenweg 21
+61437 Oberursel
+Deutschland","travel, insurance",de,verified,"https://www.avis.de/das-kleingedruckte/datenschutzrichtlinien, https://www.avis.de/das-kleingedruckte/impressum",https://www.datarequests.org/company/avis/,https://www.datarequests.org/db/avis.json,19,"insurance, verified, email, phone, website",High
+Telenor Sverige AB,telenor-se,personuppgifter@telenor.se,+46 20 22 22 22,https://www.telenor.se,"Box 3081
+169 03 Solna
+Sverige",telecommunication,se,verified,https://www.telenor.se/support/integritet/integritetspolicy/,https://www.datarequests.org/company/telenor-se/,https://www.datarequests.org/db/telenor-se.json,19,"telecom, verified, email, phone, website",High
+Telenor Digital AS,telenordigital,DPO@telenordigital.com,+47 810 77 000,https://www.telenordigital.com,"Snarøyveien 30
+1331 Fornebu
+Norway",telecommunication,"no, fi, se, dk",verified,https://www.telenordigital.com/privacy-notice/,https://www.datarequests.org/company/telenordigital/,https://www.datarequests.org/db/telenordigital.json,19,"telecom, verified, email, phone, website",High
+Telefónica Germany GmbH & Co. OHG,o2-de,impressum@cc.o2online.de,+49 89 787979400,https://www.o2online.de/,"Georg-Brauchle-Ring 50
+80992 München
+Deutschland",telecommunication,de,verified,"https://www.o2online.de/recht/datenschutz/, https://www.o2online.de/recht/impressum/, https://meine-daten.telefonica.de/de/aurol",https://www.datarequests.org/company/o2-de/,https://www.datarequests.org/db/o2-de.json,19,"telecom, verified, email, phone, website",High
+Telecom Liechtenstein AG,telecom-liechtenstein,datenschutz@telecom.li,+423 237 74 00,https://fl1.li/,"Schaanerstrasse 1
+9490 Vaduz
+Liechtenstein",telecommunication,li,verified,"https://www.fl1.li/wp-content/uploads/2024/04/FL1-Datenschutzerklarung_V20230921.pdf, https://www.fl1.li/rechtliches/datenschutz/",https://www.datarequests.org/company/telecom-liechtenstein/,https://www.datarequests.org/db/telecom-liechtenstein.json,19,"telecom, verified, email, phone, website",High
+TV-COM AG,dorfnetz-li,info@tv-com.li,+423 377 38 80,https://dorfnetz.li/,"Wirtschaftspark 31
+9492 Eschen
+Liechtenstein",telecommunication,li,verified,https://dorfnetz.li/datenschutz/,https://www.datarequests.org/company/dorfnetz-li/,https://www.datarequests.org/db/dorfnetz-li.json,19,"telecom, verified, email, phone, website",High
+TÜV Thüringen-Gruppe,tuev-thueringen,datenschutz@tuev-thueringen.de,+49 361 42830,https://www.tuev-thueringen.de,"Melchendorfer Straße 64
+99096 Erfurt
+Deutschland","public body, school, telecommunication, travel, commerce, utility, nonprofit, health",de,verified,"https://www.tuev-thueringen.de/unternehmen/kontakt/datenschutzerklaerung/, https://www.tuev-thueringen.de/fileadmin/user_upload/tuev/Downloads/allgemein/180522_Datenschutz-Information_AGSB.pdf, https://www.tuev-thueringen.de/fileadmin/user_upload/tuev/Downloads/allgemein/180522_Datenschutz-Information_TSG.pdf, https://www.tuev-thueringen.de/fileadmin/user_upload/tuev/Downloads/allgemein/180522_Datenschutz-Information_TTAka.pdf, https://www.tuev-thueringen.de/fileadmin/user_upload/tuev/Downloads/allgemein/180522_Datenschutz-Information_TTAT.pdf, https://www.tuev-thueringen.de/fileadmin/user_upload/tuev/Downloads/allgemein/180522_Datenschutz-Information_TTFzg.pdf",https://www.datarequests.org/company/tuev-thueringen/,https://www.datarequests.org/db/tuev-thueringen.json,19,"health, verified, email, phone, website",High
+Barmenia.Gothaer Finanzholding AG,gothaer,datenschutz@gothaer.de,+49 221 30800,https://www.gothaer.de/,"Arnoldiplatz 1
+50969 Köln
+Deutschland",insurance,de,verified,"https://www.gothaer.de/StreamingServlet/app/dvz/DocumentDownload/116991?scope=gothaer_scope, https://www.gothaer.de/rechtliche-informationen/datenschutz/, https://github.com/datenanfragen/data/pull/1995",https://www.datarequests.org/company/gothaer/,https://www.datarequests.org/db/gothaer.json,19,"insurance, verified, email, phone, website",High
+Barmenia Versicherungen a. G.,barmeniade,datenschutz@barmenia.de,+49 202 43800,https://www.barmenia.de/,"Barmenia-Allee 1
+42119 Wuppertal
+Deutschland",insurance,de,verified,"https://www.barmenia.de/deu/bde_privat/datenschutz.xhtml, https://github.com/datenanfragen/data/pull/691",https://www.datarequests.org/company/barmeniade/,https://www.datarequests.org/db/barmeniade.json,19,"insurance, verified, email, phone, website",High
+Barclays PLC,barclays,DPO@Barclays.com,+44 800 282390,https://www.barclays.co.uk/,"Leicester
+LE87 2BB
+United Kingdom",finance,gb,verified,"https://www.barclays.co.uk/important-information/control-your-data/, https://www.barclays.co.uk/content/dam/documents/wealth-management/site-hygiene/full-privacy-notice/full-privacy-notice.pdf, https://www.barclays.co.uk/important-information/privacy-policy/, https://www.barclays.co.uk/complaints/",https://www.datarequests.org/company/barclays/,https://www.datarequests.org/db/barclays.json,19,"finance, verified, email, phone, website",High
+Barclays Bank Ireland PLC Hamburg Branch,barclaycard,datenschutz@barclays.de,+49 40 89099866,https://www.barclays.de/,"Gasstraße 4c
+22761 Hamburg
+Deutschland","finance, insurance",de,verified,"https://github.com/datenanfragen/data/issues/20, https://github.com/datenanfragen/data/issues/94, https://www.barclays.de/datenschutz-sicherheit/, https://www.barclays.de/impressum/, https://github.com/datenanfragen/data/pull/1641",https://www.datarequests.org/company/barclaycard/,https://www.datarequests.org/db/barclaycard.json,19,"finance, verified, email, phone, website",High
+"Bank of America Europe Designated Activity Company, Zweigniederlassung Frankfurt am Main",bankofamerica-de,datenschutzbamlfrankfurt@bofa.com,+49 69 58995028,https://www.bankofamerica.com,"Taunusanlage 9-10
+60329 Frankfurt am Main
+Deutschland",finance,de,verified,"https://business.bofa.com/content/dam/boamlimages/documents/articles/ID18_0208/GBAM-GDPR-Privacy-Notice-EMEA.pdf, https://github.com/datenanfragen/data/pull/2094",https://www.datarequests.org/company/bankofamerica-de/,https://www.datarequests.org/db/bankofamerica-de.json,19,"finance, verified, email, phone, website",High
+Riverty GmbH,afterpay,datenschutz@riverty.de,+49 30 76239239,https://riverty.app/de-de/,"Gütersloher Str. 123
+33415 Verl
+Deutschland",finance,de,verified,"https://documents.riverty.com/app/app_privacy_statement/de_de/, https://de.riverty.support/hc/en-de/articles/26284157308177-Imprint, https://www.riverty.com/de/campaigns/2022/changing-perspective/, https://www.northdata.de/Riverty%20GmbH,%20Verl/Amtsgericht%20G%C3%BCtersloh%20HRB%209923, https://github.com/datenanfragen/data/pull/887",https://www.datarequests.org/company/afterpay/,https://www.datarequests.org/db/afterpay.json,19,"finance, verified, email, phone, website",High
+Riskified Ltd.,riskified-com,privacy@riskified.com,,https://www.riskified.com,"30 Kalischer Street
+6525724 Tel Aviv
+Israel","finance, commerce",all,verified,https://www.riskified.com/privacy/,https://www.datarequests.org/company/riskified-com/,https://www.datarequests.org/db/riskified-com.json,19,"finance, verified, email, website, global",High
+Riseup Networks,riseup-networks,collective@riseup.net,,https://riseup.net/,"PO Box 3027
+Lacey, WA 98509
+United States of America","telecommunication, nonprofit",all,verified,"https://www.riseup.net/en/about-us/contact, https://github.com/datenanfragen/data/pull/2560",https://www.datarequests.org/company/riseup-networks/,https://www.datarequests.org/db/riseup-networks.json,19,"telecom, verified, email, website, global",High
+RheinLand Versicherungs AG,rheinland-versicherungs-ag,datenschutz@rheinland-versicherungen.de,+49 2131 2900,https://www.rheinland-versicherungen.de/,"RheinLandplatz
+41460 Neuss
+Deutschland",insurance,de,verified,"https://www.rheinland-versicherungen.de/datenschutz/, https://github.com/datenanfragen/data/pull/2327",https://www.datarequests.org/company/rheinland-versicherungs-ag/,https://www.datarequests.org/db/rheinland-versicherungs-ag.json,19,"insurance, verified, email, phone, website",High
+Revolut Bank UAB,revolut-com,dpo@revolut.com,,https://www.revolut.com,"Konstitucijos ave. 21B
+08130 Vilnius
+Lithuania",finance,all,verified,"https://github.com/datenanfragen/data/issues/401, https://www.revolut.com/en-DE/legal/privacy, https://github.com/datenanfragen/data/pull/2305, https://github.com/datenanfragen/data/pull/3451",https://www.datarequests.org/company/revolut-com/,https://www.datarequests.org/db/revolut-com.json,19,"finance, verified, email, website, global",High
+Reflectiv SAS,improvmx,support@improvmx.com,,https://improvmx.com/,"128 Rue la Boétie
+75008 Paris
+France",telecommunication,all,verified,"https://improvmx.com/privacy-policy/, https://improvmx.com/terms-of-service/, https://improvmx.com/gdpr-compliance/",https://www.datarequests.org/company/improvmx/,https://www.datarequests.org/db/improvmx.json,19,"telecom, verified, email, website, global",High
+Baloise Versicherungen,basler-versicherungen,datenschutz@baloise.de,+49 6172 1254600,https://www.baloise.de/,"Basler Straße 4
+61352 Bad Homburg
+Deutschland",insurance,de,verified,"https://www.baloise.de/de/ueber-uns/datenschutz.html, https://github.com/datenanfragen/data/pull/1239, https://github.com/datenanfragen/data/pull/2324",https://www.datarequests.org/company/basler-versicherungen/,https://www.datarequests.org/db/basler-versicherungen.json,19,"insurance, verified, email, phone, website",High
+Baden-Württembergische Bank (BW-Bank),bw-bank,datenschutz@lbbw.de,+49 711 1270,http://www.bw-bank.de,"c/o Landesbank Baden-Württemberg
+Am Hauptbahnhof 2
+70173 Stuttgart
+Deutschland",finance,de,verified,"https://www.bw-bank.de/de/home/toolbar/datenschutz.html, https://github.com/datenanfragen/data/pull/1841, https://www.payback.de/info/visa/guthabenkarte-datenschutz, https://github.com/datenanfragen/data/pull/2345",https://www.datarequests.org/company/bw-bank/,https://www.datarequests.org/db/bw-bank.json,19,"finance, verified, email, phone, website",High
+Baader Bank AG,baaderbank,datenschutz@baaderbank.de,+49 89 51500,https://www.baaderbank.de/,"Weihenstephaner Straße 4
+85716 Unterschleißheim
+Deutschland",finance,"de, at",verified,"https://www.baaderbank.de/en/imprint/data-protection-declaration, https://www.baaderbank.de/en/imprint",https://www.datarequests.org/company/baaderbank/,https://www.datarequests.org/db/baaderbank.json,19,"finance, verified, email, phone, website",High
+RCI Banque S.A. Niederlassung Deutschland,renault-bank-direkt,datenschutzbeauftragter@rcibanque.com,+49 2131 401040,https://www.renault-bank-direkt.de,"Jagenbergstraße 1
+41468 Neuss
+Deutschland",finance,de,verified,"https://www.renault-bank-direkt.de/hilfe-informationen/datenschutz.html, https://www.renault-bank-direkt.de/hilfe-informationen/impressum.html, https://github.com/datenanfragen/data/pull/815",https://www.datarequests.org/company/renault-bank-direkt/,https://www.datarequests.org/db/renault-bank-direkt.json,19,"finance, verified, email, phone, website",High
+RaboDirect Deutschland,rabodirect-de,datenschutz@rabobank.com,+49 69 1302600,https://www.rabodirect.de/,"Postfach 90 01 48
+60441 Frankfurt
+Deutschland",finance,de,verified,"https://www.rabodirect.de/system/datenschutzhinweise, https://github.com/datenanfragen/data/pull/828, https://www.rabodirect.de/system/impressum",https://www.datarequests.org/company/rabodirect-de/,https://www.datarequests.org/db/rabodirect-de.json,19,"finance, verified, email, phone, website",High
+Bausparkasse Schwäbisch Hall AG,schwaebisch-hall,datenschutzbeauftragter-SHG@schwaebisch-hall.de,+49 791 464812,https://www.schwaebisch-hall.de,"Crailsheimer Straße 52
+74523 Schwäbisch Hall
+Deutschland",finance,de,verified,"https://www.schwaebisch-hall.de/sicherheit-und-datenschutz.html, https://github.com/datenanfragen/data/pull/1555",https://www.datarequests.org/company/schwaebisch-hall/,https://www.datarequests.org/db/schwaebisch-hall.json,19,"finance, verified, email, phone, website",High
+Posteo e.K.,posteo,datenschutz@posteo.de,,https://posteo.de,"Methfesselstr. 38
+10965 Berlin
+Germany",telecommunication,all,verified,"https://posteo.de/en/site/legal_notice, https://posteo.de/en/site/privacy_policy, https://github.com/datenanfragen/data/pull/2282",https://www.datarequests.org/company/posteo/,https://www.datarequests.org/db/posteo.json,19,"telecom, verified, email, website, global",High
+Porkbun LLC,porkbun,privacy@porkbun.com,,https://porkbun.com,"21370 SW Langer Farms Parkway
+Suite 142-429
+Sherwood, OR 97140
+United States of America",telecommunication,all,verified,"https://porkbun.com/legal/agreement/privacy_policy, https://github.com/datenanfragen/data/pull/1324",https://www.datarequests.org/company/porkbun/,https://www.datarequests.org/db/porkbun.json,19,"telecom, verified, email, website, global",High
+Polybit Inc.,autocode,support@autocode.com,,https://autocode.com,"2390 30th Ave.
+San Francisco
+CA 94116
+United States of America",telecommunication,all,verified,"https://github.com/datenanfragen/data/pull/947, https://autocode.com/privacy-policy/",https://www.datarequests.org/company/autocode/,https://www.datarequests.org/db/autocode.json,19,"telecom, verified, email, website, global",High
+Piraeus Bank S.A.,piraeusbank,DPOOffice@piraeusbank.gr,+30 21 0328 8000,https://www.piraeusbank.gr/,"4 Ameriki Street
+10564 Athens
+Greece",finance,gr,verified,"https://www.piraeusbank.gr/-/jssmedia/Project/Piraeus/PiraeusBank/shared/Files/PiraeusBank/support/gdpr/DPO-en.pdf, https://www.piraeusbank.gr/en/support/contact-us",https://www.datarequests.org/company/piraeusbank/,https://www.datarequests.org/db/piraeusbank.json,19,"finance, verified, email, phone, website",High
+qards GmbH,bayern-card-services-gmbh,marketing@qards.de,+49 681 93760,https://www.bayerncard.de,"Georg-Brauchle-Ring 23 – 25
+80992 München
+Deutschland",finance,de,verified,"https://www.qards.de/datenschutz, https://www.kreditwesen.de/cards/ergaenzende-informationen/karten-meldungen/bayern-card-services-pluscard-fusionieren-qards-id97298.html, https://github.com/datenanfragen/data/pull/1462",https://www.datarequests.org/company/bayern-card-services-gmbh/,https://www.datarequests.org/db/bayern-card-services-gmbh.json,19,"finance, verified, email, phone, website",High
+PSD Bank Nürnberg eG,psd-nuernberg,datenschutz@psd-nuernberg.de,+49 800 2385555,https://www.psd-nuernberg.de,"Willy-Brandt-Platz 8
+90402 Nürnberg
+Deutschland",finance,de,verified,"https://www.psd-nuernberg.de/service/rechtliche-hinweise/datenschutzhinweis.html, https://github.com/datenanfragen/data/pull/1295",https://www.datarequests.org/company/psd-nuernberg/,https://www.datarequests.org/db/psd-nuernberg.json,19,"finance, verified, email, phone, website",High
+PSD Bank Nord eG,psd-bank-nord,datenschutz@psd-nord.de,+49 40 530530,https://www.psd-nord.de,"Schloßstraße 10
+22041 Hamburg
+Deutschland",finance,de,verified,"https://www.psd-nord.de/spezialseiten/datenschutz/c415.html, https://github.com/datenanfragen/data/pull/1435",https://www.datarequests.org/company/psd-bank-nord/,https://www.datarequests.org/db/psd-bank-nord.json,19,"finance, verified, email, phone, website",High
+PSD Bank Braunschweig eG,psd-bank-braunschweig,datenschutz@psd-braunschweig.de,+49 531 4712345,https://www.psd-braunschweig.de,"Altstadtmarkt 11
+38100 Braunschweig
+Deutschland","finance, insurance",de,verified,https://www.psd-braunschweig.de/datenschutz.html,https://www.datarequests.org/company/psd-bank-braunschweig/,https://www.datarequests.org/db/psd-bank-braunschweig.json,19,"finance, verified, email, phone, website",High
+PSD Bank Berlin-Brandenburg eG,psd-bb,datenschutz@psd-bb.de,+49 30 850820,https://www.psd-berlin-brandenburg.de/,"Handjerystr. 34–36
+12159 Berlin
+Deutschland",finance,de,verified,https://www.psd-berlin-brandenburg.de/service/rechtliche-hinweise/datenschutzhinweis-zur-website.html,https://www.datarequests.org/company/psd-bb/,https://www.datarequests.org/db/psd-bb.json,19,"finance, verified, email, phone, website",High
+Proxalto Lebensversicherung AG,proxalto-lv,datenschutz@viridium-gruppe.com,+49 40 55554400,https://www.proxalto-lv.de,"20083 Hamburg
+Deutschland",insurance,de,verified,"https://www.proxalto-lv.de/datenschutzbestimmungen/, https://github.com/datenanfragen/data/pull/1550",https://www.datarequests.org/company/proxalto-lv/,https://www.datarequests.org/db/proxalto-lv.json,19,"insurance, verified, email, phone, website",High
+Provinzial NordWest Lebensversicherung Aktiengesellschaft,provizial-nordwest,datenschutz@provinzial.de,+49 251 2192520,https://www.provizial.de,"Sophienblatt 33
+24114 Kiel
+Deutschland",insurance,de,verified,https://www.provinzial-nordwest.de/export/sites/pkp/_resources/download/meta/Hinweise_zum_Datenschutz.pdf,https://www.datarequests.org/company/provizial-nordwest/,https://www.datarequests.org/db/provizial-nordwest.json,19,"insurance, verified, email, phone, website",High
+Provinzial Nord Brandkasse AG,provinzial-nord,datenschutz@provinzial.de,+49 251 2192520,https://www.provinzial-online.de,"Sophienblatt 33
+24114 Kiel
+Deutschland",insurance,de,verified,https://www.provinzial-nordwest.de/export/sites/pkp/_resources/download/meta/Hinweise_zum_Datenschutz.pdf,https://www.datarequests.org/company/provinzial-nord/,https://www.datarequests.org/db/provinzial-nord.json,19,"insurance, verified, email, phone, website",High
+proptop GmbH,proptop,support@proptop.com,+49 5482 9899000,https://www.proptop.com/,"Ladberger Straße 81
+49525 Lengerich
+Deutschland","commerce, finance",de,verified,"https://www.proptop.com/datenschutzerklaerung, https://www.proptop.com/impressum, https://github.com/datenanfragen/data/pull/1694, https://github.com/datenanfragen/data/pull/1842",https://www.datarequests.org/company/proptop/,https://www.datarequests.org/db/proptop.json,19,"finance, verified, email, phone, website",High
+Basecamp LLC,basecamp,privacy@basecamp.com,,https://basecamp.com,"2045 W Grand Ave Ste B
+PMB 53289
+Chicago IL 60612
+United States of America",telecommunication,all,verified,"https://basecamp.com/about/policies/privacy, https://basecamp.com/about/policies/privacy/regulations",https://www.datarequests.org/company/basecamp/,https://www.datarequests.org/db/basecamp.json,19,"telecom, verified, email, website, global",High
+BARMER,barmer,datenschutz@barmer.de,+49 800 3331010,https://www.barmer.de/,"42266 Wuppertal
+Deutschland","health, insurance",de,verified,https://www.barmer.de/consent/bestmoeglicher-schutz-fuer-ihre-daten-1366092,https://www.datarequests.org/company/barmer/,https://www.datarequests.org/db/barmer.json,19,"insurance, verified, email, phone, website",High
+Unfallkasse Brandenburg,unfallkasse-brandenburg,info@ukbb.de,+49 335 52160,https://www.ukbb.de/,"Müllroser Chaussee 75
+15236 Frankfurt (Oder)
+Deutschland",insurance,de,verified,"https://www.ukbb.de/ueber-uns/datenschutz-und-informationspflichten, https://www.ukbb.de/fileadmin/user_upload/cms/download_user/Datenschutz/Allgemeine_Datenschutzerkla__rung_UKBB_07-2021.pdf, https://www.ukbb.de/impressum, https://github.com/datenanfragen/data/pull/2754",https://www.datarequests.org/company/unfallkasse-brandenburg/,https://www.datarequests.org/db/unfallkasse-brandenburg.json,19,"insurance, verified, email, phone, website",High
+Alfahosting GmbH,alfahosting,datenschutz@alfahosting.de,+49 800 70000800,https://alfahosting.de/,"Ankerstraße 3b
+06108 Halle (Saale)
+Deutschland",telecommunication,de,verified,"https://alfahosting.de/datenschutz/, https://alfahosting.de/impressum/",https://www.datarequests.org/company/alfahosting/,https://www.datarequests.org/db/alfahosting.json,19,"telecom, verified, email, phone, website",High
+Alecto GmbH,friendsurance,datenschutz@friendsurance.de,+49 800 0870880,https://www.friendsurance.de/,"Mehringdamm 34
+10961 Berlin
+Deutschland","insurance, finance",de,verified,"https://www.friendsurance.de/datenschutz-allgemein, https://github.com/datenanfragen/data/issues/497",https://www.datarequests.org/company/friendsurance/,https://www.datarequests.org/db/friendsurance.json,19,"finance, verified, email, phone, website",High
+AKK Altonaer Kinderkrankenhaus gGmbH,kinderkrankenhaus-altonaer,datenschutz@kinderkrankenhaus.net,+49 40 889080,https://www.kinderkrankenhaus.net,"Bleickenallee 38
+22763 Hamburg
+Deutschland",health,de,verified,"https://www.kinderkrankenhaus.net/datenschutz.html, https://github.com/datenanfragen/data/pull/868, https://www.kinderkrankenhaus.net/impressum.html",https://www.datarequests.org/company/kinderkrankenhaus-altonaer/,https://www.datarequests.org/db/kinderkrankenhaus-altonaer.json,19,"health, verified, email, phone, website",High
+Akamai Technologies GmbH,linode,privacy@akamai.com,,https://www.akamai.com,"Parkring 22
+85748 Garching
+Germany",telecommunication,all,verified,"https://www.akamai.com/legal/privacy-statement, https://www.akamai.com/company/akamai-affiliates, https://github.com/datenanfragen/data/pull/1887",https://www.datarequests.org/company/linode/,https://www.datarequests.org/db/linode.json,19,"telecom, verified, email, website, global",High
+OVH GmbH,ovh,datenschutz@ovh.de,+49 681 906730,https://www.ovh.de/,"Dudweiler Landstraße 5
+66123 Saarbrücken
+Deutschland",telecommunication,de,verified,"https://www.ovh.de/unternehmen/datenschutz.xml, https://www.ovh.de/support/impressum-und-rechtshinweise/",https://www.datarequests.org/company/ovh/,https://www.datarequests.org/db/ovh.json,19,"telecom, verified, email, phone, website",High
+OVAG – Ostdeutsche Versicherung AG,bavariadirekt,datenschutz@bavariadirekt.de,+49 89 21601880,https://www.bavariadirekt.de,"Am Karlsbad 4 – 5
+10785 Berlin
+Deutschland",insurance,de,verified,"https://www.bavariadirekt.de/datenschutz/, https://www.bavariadirekt.de/impressum/",https://www.datarequests.org/company/bavariadirekt/,https://www.datarequests.org/db/bavariadirekt.json,19,"insurance, verified, email, phone, website",High
+ottonova Holding AG,ottonova,ottonova@iitr.de,+49 89 18917360,https://www.ottonova.de,"Ottostraße 4
+80333 München
+Deutschland",insurance,de,verified,"https://www.ottonova.de/datenschutz, https://github.com/datenanfragen/data/issues/596",https://www.datarequests.org/company/ottonova/,https://www.datarequests.org/db/ottonova.json,19,"insurance, verified, email, phone, website",High
+Openbank Deutschland AG,santander,datenschutz@santander.de,+49 2161 9060599,https://www.santander.de,"Santander-Platz 1
+41061 Mönchengladbach
+Deutschland",finance,de,verified,"https://www.santander.de/privatkunden/service-kontakt/datenschutz/, https://www.santander.de/privatkunden/service-kontakt/impressum/, https://www.santander.de/openbank/, https://github.com/datenanfragen/data/pull/3827",https://www.datarequests.org/company/santander/,https://www.datarequests.org/db/santander.json,19,"finance, verified, email, phone, website",High
+"Proofpoint, Inc",proofpoint,privacy@proofpoint.com,,https://www.proofpoint.com,"925 W. Maude Ave
+Sunnyvale CA 94085
+United States of America",telecommunication,all,verified,"https://www.proofpoint.com/us/legal/privacy-policy, https://www.proofpoint.com/de/legal/privacy-policy",https://www.datarequests.org/company/proofpoint/,https://www.datarequests.org/db/proofpoint.json,19,"telecom, verified, email, website, global",High
+Pronova BKK,pronovabkk,datenschutz@pronovabkk.de,+49 621 533911000,https://www.pronovabkk.de,"Horst-Henning-Platz 1
+51373 Leverkusen
+Deutschland",insurance,de,verified,"https://www.pronovabkk.de/unternehmen/datenschutz.html, https://www.pronovabkk.de/impressum.html, https://github.com/datenanfragen/data/pull/1890",https://www.datarequests.org/company/pronovabkk/,https://www.datarequests.org/db/pronovabkk.json,19,"insurance, verified, email, phone, website",High
+primastrom GmbH,primastrom,datenschutz@primastrom.de,+49 30 206143723,https://primastrom.de/,"Großbeerenstraße 2-10
+12107 Berlin
+Deutschland","utility, telecommunication",de,verified,"https://primastrom.de/media/pdf/Datenschutzerklaerung_der_primastrom_GmbH_01062021.pdf, https://github.com/datenanfragen/data/pull/2581, https://github.com/datenanfragen/data/pull/2853",https://www.datarequests.org/company/primastrom/,https://www.datarequests.org/db/primastrom.json,19,"telecom, verified, email, phone, website",High
+PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft (PWC),pwc-de,DE_Datenschutz@pwc.com,+49 69 95850,https://www.pwc.de/,"Friedrich-Ebert-Anlage 35-37
+60327 Frankfurt am Main
+Deutschland",finance,de,verified,"https://www.pwc.de/de/datenschutzerklaerung.html, https://github.com/datenanfragen/data/pull/992",https://www.datarequests.org/company/pwc-de/,https://www.datarequests.org/db/pwc-de.json,19,"finance, verified, email, phone, website",High
+Praxis Dr. med. dent. Peter Luppa,drluppa-de,praxis@drluppa.de,+49 911 227104,https://drluppa.de,"Königstr. 33
+90402 Nürnberg
+Deutschland",health,de,verified,"https://drluppa.de/index.php/datenschutzerklaerung, https://github.com/datenanfragen/data/pull/1638",https://www.datarequests.org/company/drluppa-de/,https://www.datarequests.org/db/drluppa-de.json,19,"health, verified, email, phone, website",High
+Bending Spoons S.p.A.,bending-spoons,privacy@bendingspoons.com,,https://bendingspoons.com/,"via Nino Bonnet 10
+20154 Milan
+Italy","entertainment, health",all,verified,https://bendingspoons.com/documents/Privacy%20and%20cookie%20policy.pdf,https://www.datarequests.org/company/bending-spoons/,https://www.datarequests.org/db/bending-spoons.json,19,"health, verified, email, website, global",High
+BBBank eG,bbbank,datenschutz@bbbank.de,+49 721 1410,https://www.bbbank.de,"Herrenstraße 2-10
+76133 Karlsruhe
+Deutschland",finance,de,verified,"https://www.bbbank.de/service/datenschutz.html, https://github.com/datenanfragen/data/pull/1294",https://www.datarequests.org/company/bbbank/,https://www.datarequests.org/db/bbbank.json,19,"finance, verified, email, phone, website",High
+BEYONDHEALTH GmbH,beyondhealth,info@beyondhealth.de,+49 221 17730500,https://beyondhealth.de,"Vor den Siebenburgen 30
+50676 Köln
+Deutschland",health,de,verified,"https://beyondhealth.de/impressum-datenschutz, https://github.com/datenanfragen/data/pull/1788",https://www.datarequests.org/company/beyondhealth/,https://www.datarequests.org/db/beyondhealth.json,19,"health, verified, email, phone, website",High
+"Newfold Digital, Inc.",web-com,privacy@newfold.com,,https://www.newfold.com/,"5335 Gate Pkwy
+Jacksonville, FL 32256
+United States of America",telecommunication,all,verified,"https://newfold.com/privacy-center/privacy, https://newfold.com/privacy-center/addendum-eu-gdpr, https://github.com/datenanfragen/data/pull/1625",https://www.datarequests.org/company/web-com/,https://www.datarequests.org/db/web-com.json,19,"telecom, verified, email, website, global",High
+Pharmacie Lafayette Toulouse,pharmacie-lafayette-toulouse,contact@pharmacielafayettetoulouse.com,+33 5 34 45 58 80,https://www.pharmacielafayette.com/toulouse-centre,"35 rue Lafayette
+31000 Toulouse
+France",health,fr,verified,"https://github.com/datenanfragen/data/pull/693, https://www.pharmacielafayette.com/toulouse-centre/mentions-legales",https://www.datarequests.org/company/pharmacie-lafayette-toulouse/,https://www.datarequests.org/db/pharmacie-lafayette-toulouse.json,19,"health, verified, email, phone, website",High
+PERM4 | Permanent Recruiting GmbH,perm4,datenschutz@perm4.com,+49 30 333063100,https://www.perm4.com/,"c/o activeMind AG
+Kurfürstendamm 56
+10707 Berlin
+Deutschland",finance,de,verified,"https://www.perm4.com/impressum/, https://github.com/datenanfragen/data/issues/511, https://www.perm4.com/datenschutz/",https://www.datarequests.org/company/perm4/,https://www.datarequests.org/db/perm4.json,19,"finance, verified, email, phone, website",High
+"PayPal (Europe) S.à r.l. et Cie, S.C.A.",paypal,impressum@paypal.com,+49 800 7234500,https://www.paypal.com,"22 – 24 Boulevard Royal
+L-2449 Luxembourg
+Luxembourg",finance,de,verified,"https://www.paypal.com/de/webapps/mpp/ua/privacy-full, https://www.paypal.com/de/webapps/mpp/imprint",https://www.datarequests.org/company/paypal/,https://www.datarequests.org/db/paypal.json,19,"finance, verified, email, phone, website",High
+Payolution GmbH,payolution,datenschutz-vie@unzer.com,+43 800 4043300,https://customer.payolution.com,"Columbusplatz 7-8
+Stiege 1 / 5. Stock
+1100 Wien
+Österreich",finance,"de, at",verified,https://a.storyblok.com/f/118211/x/6d9a0fceb9/20250625_datenschutzhinweise_payolution_endkunden.pdf,https://www.datarequests.org/company/payolution/,https://www.datarequests.org/db/payolution.json,19,"finance, verified, email, phone, website",High
+Bernstein Bank GmbH,bernstein-bank,privacy@bernstein-bank.com,+49 89 21543100,https://www.bernstein-bank.com,"Maximilianstr. 13
+80539 München
+Germany",finance,"it, de, gb, pl",verified,"https://github.com/datenanfragen/data/issues/266, https://bernstein-bank.azureedge.net/download/documents/DE/DE20200619_Bernstein_Bank_Datenschutzerklaerung.pdf, https://bernstein-bank.com/de/impressum/",https://www.datarequests.org/company/bernstein-bank/,https://www.datarequests.org/db/bernstein-bank.json,19,"finance, verified, email, phone, website",High
+Berliner Sparkasse,berliner-sparkasse,datenschutz@berliner-sparkasse.de,+49 30 86986969,https://www.berliner-sparkasse.de/,"Alexanderplatz 2
+10178 Berlin
+Deutschland",finance,de,verified,"https://www.berliner-sparkasse.de/de/home/toolbar/datenschutz.html, https://github.com/datenanfragen/data/pull/966, https://www.berliner-sparkasse.de/en/home/toolbar/kontakt.html",https://www.datarequests.org/company/berliner-sparkasse/,https://www.datarequests.org/db/berliner-sparkasse.json,19,"finance, verified, email, phone, website",High
+OwnCube e.U.,owncube,support@owncube.com,,https://owncube.com/,"Stadtplatz 12, Top 2
+3860 Heidenreichstein
+Austria",telecommunication,all,verified,"https://owncube.com/legal_de.html, https://github.com/datenanfragen/data/pull/2154",https://www.datarequests.org/company/owncube/,https://www.datarequests.org/db/owncube.json,19,"telecom, verified, email, website, global",High
+ALL-INKL.COM - Neue Medien Münnich,all-inkl,info@all-inkl.com,+49 35872 35310,https://all-inkl.com/,"Hauptstraße 68
+02742 Friedersdorf
+Deutschland",telecommunication,de,verified,"https://all-inkl.com/datenschutz/, https://all-inkl.com/impressum/",https://www.datarequests.org/company/all-inkl/,https://www.datarequests.org/db/all-inkl.json,19,"telecom, verified, email, phone, website",High
+transact Elektronische Zahlungssysteme GmbH,epay,DPO_DE@epayworldwide.com,+49 89 8996430,https://epay.de/,"Fraunhoferstr. 10
+82152 Martinsried
+Deutschland",finance,de,verified,"https://epay.de/de/datenschutzbestimmungen/, https://github.com/datenanfragen/data/pull/918, https://kartenwelt.penny.de/datenschutz, https://github.com/datenanfragen/data/pull/2134",https://www.datarequests.org/company/epay/,https://www.datarequests.org/db/epay.json,19,"finance, verified, email, phone, website",High
+Towarzystwo Ubezpieczeń Europa S.A.,tueuropa-pl,iod@tueuropa.pl,+48 71 369 28 87,https://tueuropa.pl,"ul. gen. Władysława Sikorskiego 26
+53-659 Wrocław
+Poland",insurance,pl,verified,"https://tueuropa.pl/polityka-prywatnosci, https://tueuropa.pl/doclib/1.-KIR_RODO_Produkt_TUE.pdf",https://www.datarequests.org/company/tueuropa-pl/,https://www.datarequests.org/db/tueuropa-pl.json,19,"insurance, verified, email, phone, website",High
+Unzer Austria GmbH,unzer-austria,datenschutz@unzer.com,+43 1 5136633100,https://www.unzer.com/at/,"Columbusplatz 7-8
+Stiege 1 / 5. Stock
+1100 Wien
+Österreich",finance,at,verified,https://a.storyblok.com/f/118211/x/ef853279f4/20250214_datenschutzhinweise_unzer-austria_endkunden.pdf,https://www.datarequests.org/company/unzer-austria/,https://www.datarequests.org/db/unzer-austria.json,19,"finance, verified, email, phone, website",High
+Union Investment Real Estate GmbH,union-investment-real-estate,datenschutz@union-investment.de,+49 40 349190,https://realestate.union-investment.com,"EMPORIO
+Valentinskamp 70
+20355 Hamburg
+Deutschland",finance,de,verified,"https://realestate.union-investment.com/datenschutz, https://realestate.union-investment.com/impressum",https://www.datarequests.org/company/union-investment-real-estate/,https://www.datarequests.org/db/union-investment-real-estate.json,19,"finance, verified, email, phone, website",High
+Union Investment Privatfonds GmbH,union-investment,datenschutz@union-investment.de,+49 69 25670,https://www.union-investment.de/,"Weißfrauenstraße 7
+60311 Frankfurt am Main
+Deutschland",finance,de,verified,"https://www.union-investment.de/datenschutz, https://www.union-investment.de/impressum-UIP, https://github.com/datenanfragen/data/pull/780",https://www.datarequests.org/company/union-investment/,https://www.datarequests.org/db/union-investment.json,19,"finance, verified, email, phone, website",High
+UniCredit Bank AG,hypovereinsbank,datenschutzrechte@unicredit.de,+49 89 3780,https://www.hypovereinsbank.de,"80311 München
+Deutschland",finance,de,verified,"https://www.hypovereinsbank.de/hvb/footer/datenschutz, https://github.com/datenanfragen/data/pull/2050",https://www.datarequests.org/company/hypovereinsbank/,https://www.datarequests.org/db/hypovereinsbank.json,19,"finance, verified, email, phone, website",High
+myProbatix,mycoronacheck-probatix-de,datenschutz@probatix.de,+49 30 56838352,https://probatix.de/,"Bismarckstraße 10-12
+10625 Berlin
+Deutschland",health,de,verified,"https://probatix.de/rechtliches/my-probatix-datenschutzbestimmungen, https://probatix.de/kontakt/, https://github.com/datenanfragen/data/pull/1791",https://www.datarequests.org/company/mycoronacheck-probatix-de/,https://www.datarequests.org/db/mycoronacheck-probatix-de.json,19,"health, verified, email, phone, website",High
+mydays GmbH,mydays,datenschutz@mydays.de,+49 89 211299933,https://www.mydays.de/,"Riesstraße 22
+80992 München
+Deutschland","commerce, insurance",de,verified,"https://www.mydays.de/datenschutz, https://www.mydays.de/impressum",https://www.datarequests.org/company/mydays/,https://www.datarequests.org/db/mydays.json,19,"insurance, verified, email, phone, website",High
+MVZ Rheumatologie und Autoimmunmedizin Hamburg GmbH,rheuma-hh,info.moenckeberg@rheuma-hh.de,+49 40 33319610,https://www.rheuma-hh.de,"Mönckebergstraße 27
+20095 Hamburg-Altstadt
+Deutschland",health,de,verified,"https://www.rheuma-hh.de/datenschutz/, https://github.com/datenanfragen/data/pull/1909",https://www.datarequests.org/company/rheuma-hh/,https://www.datarequests.org/db/rheuma-hh.json,19,"health, verified, email, phone, website",High
+Open Bank S.A.,openbank,datenschutz@openbank.com,+49 69 945189175,https://www.openbank.de/,"Plaza de Santa Bárbara 2
+28004 Madrid
+Spain",finance,"de, es",verified,https://www.openbank.de/datenschutzpolitik,https://www.datarequests.org/company/openbank/,https://www.datarequests.org/db/openbank.json,19,"finance, verified, email, phone, website",High
+Octo Group s.p.a.,octo-telematics,dpo@octotelematics.com,+39 06 726 5341,https://www.octotelematics.com/,"Via Vincenzo Lamaro 51
+00173 Rome
+Italy","telecommunication, commerce","it, es, de, gb, pl",verified,"https://www.octotelematics.com/, https://www.octotelematics.com/privacy-and-cookie-policy/",https://www.datarequests.org/company/octo-telematics/,https://www.datarequests.org/db/octo-telematics.json,19,"telecom, verified, email, phone, website",High
+NÜRNBERGER Versicherung,nuernberger-versicherung,datenschutzbeauftragter@nuernberger.de,+49 911 5315,https://www.nuernberger.de,"Ostendstraße 100
+90334 Nürnberg
+Deutschland",insurance,de,verified,https://www.nuernberger.de/medien/4allportal/is023_001_p.pdf,https://www.datarequests.org/company/nuernberger-versicherung/,https://www.datarequests.org/db/nuernberger-versicherung.json,19,"insurance, verified, email, phone, website",High
+"Notion Labs, Inc.",notion,team@makenotion.com,,https://notion.so,"2300 Harrison Street
+San Francisco, CA 94110
+United States",telecommunication,all,verified,"https://www.notion.so/notion/Privacy-Policy-3468d120cf614d4c9014c09f6adc9091#1c924d8f434e470d88db2e005ae69aa2, https://github.com/datenanfragen/data/pull/2710",https://www.datarequests.org/company/notion/,https://www.datarequests.org/db/notion.json,19,"telecom, verified, email, website, global",High
+norisbank GmbH,norisbank,service@norisbank.de,+49 30 31066000,https://www.norisbank.de/,"10910 Berlin
+Deutschland","finance, insurance",de,verified,"https://www.norisbank.de/service/rechtliches.html, https://www.norisbank.de/ueberuns/impressum.html",https://www.datarequests.org/company/norisbank/,https://www.datarequests.org/db/norisbank.json,19,"finance, verified, email, phone, website",High
+Nokia Corporation,nokia,,+358 10 4488000,https://www.nokia.com/,"Karakaari 7
+P.O. Box 226
+FI-00045 Nokia Group
+Finland",telecommunication,all,verified,"https://www.nokia.com/notices/privacy/, https://www.nokia.com/contact-us/, https://github.com/datenanfragen/data/pull/1258",https://www.datarequests.org/company/nokia/,https://www.datarequests.org/db/nokia.json,19,"telecom, verified, phone, website, global",High
+Niederrheinische Sparkasse RheinLippe,nispa,datenschutz@nispa.de,+49 281 2051,https://www.nispa.de/,"Bismarckstraße 1
+46483 Wesel
+Deutschland",finance,de,verified,"https://www.nispa.de/de/home/toolbar/datenschutz.html, https://github.com/datenanfragen/data/pull/2295",https://www.datarequests.org/company/nispa/,https://www.datarequests.org/db/nispa.json,19,"finance, verified, email, phone, website",High
+NIBC Bank N.V.,nibcdirect,datenschutz@nibc.de,+49 69 24437200,https://www.nibc.de,"An der Welle 5
+60322 Frankfurt am Main
+Deutschland",finance,de,verified,"https://www.nibc.de/hilfe-services/sicherheit/, https://www.nibc.de/ueber-nibc/impressum/, https://github.com/datenanfragen/data/pull/737",https://www.datarequests.org/company/nibcdirect/,https://www.datarequests.org/db/nibcdirect.json,19,"finance, verified, email, phone, website",High
+BIG direkt gesund,big-direkt-gesund,datenschutz@big-direkt.de,+49 800 54565456,https://www.big-direkt.de/,"Rheinische Straße 1
+44137 Dortmund
+Deutschland","health, insurance",de,verified,"https://www.big-direkt.de/de/datenschutz, https://github.com/datenanfragen/data/pull/2232",https://www.datarequests.org/company/big-direkt-gesund/,https://www.datarequests.org/db/big-direkt-gesund.json,19,"insurance, verified, email, phone, website",High
+BGV Badische Versicherungen,bgv-de,datenschutzbeauftragter@bgv.de,+49 721 6600,https://www.bgv.de/,"Durlacher Allee 56
+76131 Karlsruhe
+Deutschland",insurance,de,verified,"https://www.bgv.de/ueber-den-bgv/rechtliches/datenschutz/, https://www.bgv.de/ueber-den-bgv/rechtliches/impressum/, https://github.com/datenanfragen/data/pull/2329",https://www.datarequests.org/company/bgv-de/,https://www.datarequests.org/db/bgv-de.json,19,"insurance, verified, email, phone, website",High
+BFS health finance GmbH,bfs-health-finance,datenschutz@meinebfs.de,+49 231 945362600,https://meinebfs.de/,"Hülshof 24
+44369 Dortmund
+Deutschland","credit agency, health",de,verified,"https://meinebfs.de/datenschutz/, https://meinebfs.de/impressum/, https://github.com/datenanfragen/data/pull/1061",https://www.datarequests.org/company/bfs-health-finance/,https://www.datarequests.org/db/bfs-health-finance.json,19,"health, verified, email, phone, website",High
+BFS finance GmbH,bfs-finance,datenschutz@bfs-finance.com,+49 5241 8043199,https://www.bfs-finance.com/,"Carl-Bertelsmann-Str. 23
+33332 Gütersloh
+Deutschland","collection agency, credit agency, finance",de,verified,"https://www.bfs-finance.com/datenschutz/, https://www.bfs-finance.com/impressum/, https://github.com/datenanfragen/data/pull/1679",https://www.datarequests.org/company/bfs-finance/,https://www.datarequests.org/db/bfs-finance.json,19,"finance, verified, email, phone, website",High
+Bezirkskliniken Mittelfranken,bezirkskliniken-mfr,Datenschutz@bezirkskliniken-mfr.de,+49 981 46530,https://www.bezirkskliniken-mfr.de,"Feuchtwanger Straße 38
+91522 Ansbach
+Deutschland",health,de,verified,"https://www.bezirkskliniken-mfr.de/datenschutz/, https://www.bezirkskliniken-mfr.de/standorte-und-kliniken/, https://github.com/datenanfragen/data/pull/2266",https://www.datarequests.org/company/bezirkskliniken-mfr/,https://www.datarequests.org/db/bezirkskliniken-mfr.json,19,"health, verified, email, phone, website",High
+BNP Paribas S.A. Niederlassung Deutschland,consorsfinanz,gdpr.desk.cib@bnpparibas.com,+49 69 71930,https://www.bnpparibas.de,"Europa-Allee 12
+60327 Frankfurt am Main
+Deutschland","finance, insurance",de,verified,"https://www.consorsfinanz.de/datenschutz/index.html, https://www.consorsfinanz.de/impressum/index.html, https://www.bnpparibas.de/de/legals/, https://www.bnpparibas.de/de/datenschutzrichtlinie/, https://www.consorsbank.de/ev/Transversal/Datenschutz?tcid=TST-298, https://github.com/datenanfragen/data/pull/784",https://www.datarequests.org/company/consorsfinanz/,https://www.datarequests.org/db/consorsfinanz.json,19,"finance, verified, email, phone, website",High
+Blutspendedienst des Bayerischen Roten Kreuzes gGmbH,blutspendedienst-brk,datenschutz@blutspendedienst.com,+49 89 53990,https://www.blutspendedienst.com/,"Herzog-Heinrich-Straße 2
+80336 München
+Deutschland",health,de,verified,"https://www.blutspendedienst.com/datenschutz, https://www.blutspendedienst.com/impressum, https://github.com/datenanfragen/data/pull/1836",https://www.datarequests.org/company/blutspendedienst-brk/,https://www.datarequests.org/db/blutspendedienst-brk.json,19,"health, verified, email, phone, website",High
+MMF UG,mmf-ug,kontakt@mmf-ug.de,+49 2174 7148000,http://mmf-ug.de,"Hauptstraße 134
+51143 Köln
+Deutschland","addresses, finance",de,verified,"https://github.com/datenanfragen/data/issues/501, http://mmf-ug.de/datenschutz/",https://www.datarequests.org/company/mmf-ug/,https://www.datarequests.org/db/mmf-ug.json,19,"finance, verified, email, phone, website",High
+MLP Finanzberatung SE,mlp-finanzberatung,datenschutzbeauftragter@mlp.de,+49 6222 3080,https://mlp.de/,"Alte Heerstraße 40
+69168 Wiesloch
+Deutschland",finance,de,verified,"https://github.com/datenanfragen/data/issues/536, https://mlp.de/mlp/datenschutz/",https://www.datarequests.org/company/mlp-finanzberatung/,https://www.datarequests.org/db/mlp-finanzberatung.json,19,"finance, verified, email, phone, website",High
+mitNORM GmbH,mitnorm,datenschutz@mitnorm.com,+49 511 56365720,https://mitnorm.de,"Rendsburger Straße 14
+30659 Hannover
+Deutschland",finance,de,verified,"https://mitnorm.de/datenschutz/, https://github.com/datenanfragen/data/pull/1774",https://www.datarequests.org/company/mitnorm/,https://www.datarequests.org/db/mitnorm.json,19,"finance, verified, email, phone, website",High
+netcup GmbH,netcup,mail@netcup.de,+49 721 75407550,https://www.netcup.com/,"Emmy-Noether-Straße 10
+76131 Karlsruhe
+Deutschland",telecommunication,de,verified,"https://www.netcup.de/kontakt/datenschutzerklaerung.php, https://www.netcup.de/kontakt/impressum.php, https://github.com/datenanfragen/data/issues/644, https://github.com/datenanfragen/data/pull/3176, https://github.com/datenanfragen/data/pull/3178",https://www.datarequests.org/company/netcup/,https://www.datarequests.org/db/netcup.json,19,"telecom, verified, email, phone, website",High
+NetCologne Gesellschaft für Telekommunikation mbH,netcologne,Datenschutz@netcologne.de,+49 221 2222313,https://www.netcologne.de/,"Am Coloneum 9
+50829 Köln
+Deutschland",telecommunication,de,verified,"https://www.netcologne.de/datenschutz, https://github.com/datenanfragen/data/pull/2143",https://www.datarequests.org/company/netcologne/,https://www.datarequests.org/db/netcologne.json,19,"telecom, verified, email, phone, website",High
+netbank,netbank,info@aab.de,+49 821 50150,https://www.netbank.de/,"c/o AAB Management GmbH
+Halderstraße 21
+86150 Augsburg
+Deutschland",finance,de,verified,"https://www.netbank.de/datenschutz.html, https://github.com/datenanfragen/data/pull/2613",https://www.datarequests.org/company/netbank/,https://www.datarequests.org/db/netbank.json,19,"finance, verified, email, phone, website",High
+Neatnik LLC,neatnik,privacy@neatnik.net,,https://neatnik.net/,"c/o Legalinc Corporate Services
+4965 US Hwy 42
+Suite 1000
+Louisville, KY 40222
+United States of America","entertainment, telecommunication",all,verified,"https://neatnik.net/about/privacy-policy/, https://home.omg.lol/info/legal#privacy-policy",https://www.datarequests.org/company/neatnik/,https://www.datarequests.org/db/neatnik.json,19,"telecom, verified, email, website, global",High
+NATIONAL BANK OF GREECE S.A.,nbg-gr,dpo@nbg.gr,+30 21 0647 5600,https://www.nbg.gr/,"Leoforos Kifisias 1-3
+115 23 Athens
+Greece",finance,gr,verified,https://www.nbg.gr/Style%20Library/ReusableContent/Privacy_statement_en.pdf,https://www.datarequests.org/company/nbg-gr/,https://www.datarequests.org/db/nbg-gr.json,19,"finance, verified, email, phone, website",High
+Namecheap Inc.,namecheap,legal@namecheap.com,,https://www.namecheap.com/,"4600 East Washington Street
+Suite 305
+Phoenix
+AZ 85034
+United States of America",telecommunication,all,verified,"https://www.namecheap.com/legal/general/privacy-policy.aspx, https://www.namecheap.com/legal/universal/universal-tos.aspx",https://www.datarequests.org/company/namecheap/,https://www.datarequests.org/db/namecheap.json,19,"telecom, verified, email, website, global",High
+"Name.com, Inc.",donuts-domains,privacy@donuts.email,,https://name.com,"10 Earlsfort Terrace
+Dublin 2, D02 T380
+Ireland","commerce, telecommunication",all,verified,https://www.name.com/privacy-policy,https://www.datarequests.org/company/donuts-domains/,https://www.datarequests.org/db/donuts-domains.json,19,"telecom, verified, email, website, global",High
+BKK VerbundPlus,bkk-verbundplus,datenschutz@bkkvp.de,+49 7351 18240,https://www.bkk-verbundplus.de/,"Zeppelinring 13
+88400 Biberach
+Deutschland","insurance, health",de,verified,"https://www.bkk-verbundplus.de/unternehmen/datenschutz/datenschutzerklaerung, https://github.com/datenanfragen/data/issues/508",https://www.datarequests.org/company/bkk-verbundplus/,https://www.datarequests.org/db/bkk-verbundplus.json,19,"insurance, verified, email, phone, website",High
+BKK EUREGIO,bkk-euregio,datenschutz@bkk-euregio.de,+49 2452 90160,https://www.bkk-euregio.de,"Boos-Fremery-Str. 66
+52525 Heinsberg
+Deutschland",insurance,de,verified,"https://www.bkk-euregio.de/impressum, https://www.bkk-euregio.de/datenschutz, https://github.com/datenanfragen/data/pull/1296",https://www.datarequests.org/company/bkk-euregio/,https://www.datarequests.org/db/bkk-euregio.json,19,"insurance, verified, email, phone, website",High
